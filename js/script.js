@@ -45,11 +45,11 @@ $( document ).ready(function(){
 		      				$("<p><a href='" + data.stories[j].url + "'>"+ data.stories[j].title+"</a></p>").appendTo(".player_links");
 		      			}
 		      			if(data.fb != "")$(".fb-profile a").attr({"href":data.fb,"target":"_BLANK"});
-		      			else $(".fb-profile a").attr("href","javascript:void(0)");
+		      			else $(".fb-profile a").attr("href","javascript:void(0)").addClass("link-disable");
 	      				if(data.twitter != "")$(".twitter-profile a").attr({"href":data.twitter,"target":"_BLANK"});
-	      				else $(".twitter-profile a").attr("href","javascript:void(0)");
+	      				else $(".twitter-profile a").attr("href","javascript:void(0)").addClass("link-disable");
 	      				if(data.wikilink != "")$(".wiki-link a").attr({"href":data.wikilink,"target":"_BLANK"});  
-	      				else $(".wiki-link a").attr("href","javascript:void(0)");
+	      				else $(".wiki-link a").attr("href","javascript:void(0)").addClass("link-disable");
 		      		}
 
 		      	});
@@ -62,4 +62,5 @@ $( document ).ready(function(){
 	 		$('.btn-primary').trigger('click')
 	 	}
 	});
+	
 })
