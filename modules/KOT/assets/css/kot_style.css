@@ -130,11 +130,9 @@ h1 span{
 	background-image: url(../images/twitter.png);
 }
 .wordpress{
-	background: url(../images/wordpress.png) no-repeat;
-	background-size: 30px 30px;
-	cursor:pointer;
+	background: url(../images/wordpress.png);
 }
-.fb:hover, .twitter:hover{
+.fb:hover, .twitter:hover, .wordpress:hover{
 	background-position-y: 0px; 
 }
 .footer{
