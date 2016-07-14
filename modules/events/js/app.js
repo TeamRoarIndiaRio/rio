@@ -96,11 +96,11 @@ $(document).ready(function(){
 	      			$(".player-details img").attr("src", 'assets/' + data.image);
 	      			//sakthi change
 	      			if(data.fb != "")$(".fb-profile a").attr({"href": data.fb,"target":"_BLANK"});
-	      			else $(".fb-profile a").attr("href","javascript:void(0)");
+	      			else $(".fb-profile a").attr("href","javascript:void(0)").addClass("link-disable");
 					if(data.twitter != "")$(".twitter-profile a").attr({"href": data.twitter,"target":"_BLANK"});
-					else $(".twitter-profile a").attr("href","javascript:void(0)");
+					else $(".twitter-profile a").attr("href","javascript:void(0)").addClass("link-disable");
 					if(data.wikilink != "")$(".wiki-link a").attr({"href":data.wikilink,"target":"_BLANK"});
-					else $(".wiki-link a").attr("href","javascript:void(0)");
+					else $(".wiki-link a").attr("href","javascript:void(0)").addClass("link-disable");
 					console.log(data.fb + ".." +data.twitter +".." + data.wikilink) 
 	      			$('#exampleModalLabel').html(data.name)
 	      			$("<p>" + data.name + "</p>").appendTo(".player_name");
