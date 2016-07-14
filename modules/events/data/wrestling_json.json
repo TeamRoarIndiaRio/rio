@@ -1,0 +1,122 @@
+﻿[
+{
+  "event": "Wrestling",
+  "name": "Sandeep Tomar",
+  "dob": "1992",
+  "place": "Haryana",
+  "category": ["57kg Freestyle"],
+  "image": "sandeep-tomar.jpg",
+  "achievements": ["Asian Wrestling Championships 2016 Bangkok (53kg) – Gold", "Commonwealth Wrestling Championship 2013 Johannesburg (55kg) – Gold", "Copa Brasil 2012 Rio de Janeiro (55kg) – Gold"],
+  "wikilink": "https://en.wikipedia.org/wiki/Sandeep_Tomar",
+  "fb": "https://www.facebook.com/sandeep.tomar.376043",
+  "twitter": "",
+  "stories": [
+              {"url":"http://timesofindia.indiatimes.com/sports/more-sports/wrestling/Wrestler-Sandeep-Tomar-secures-Olympic-quota-place/articleshow/51966780.cms","title":"Wrestler Sandeep Tomar secures Olympic quota place"}
+            ]
+},
+{
+  "event": "Wrestling",
+  "name": "Yogeshwar Dutt",
+  "dob": "2 November 1982",
+  "place": "Haryana",
+  "category": ["65Kg Freestyle"],
+  "image": "yogeshwar-dutt.jpg",
+  "achievements": ["multiple gold, silver and bronze medals in various events including Asian Games (2014 and 2006)", "Commonwealth Wrestling Championship 2013 Johannesburg (55kg) – Gold", "Complete medal tally in Wikipedia page"],
+  "wikilink": "https://en.wikipedia.org/wiki/Yogeshwar_Dutt",
+  "fb": "https://www.facebook.com/YogeshwarOfficial",
+  "twitter": "https://twitter.com/duttyogi",
+  "stories": [
+              {"url":"http://indianexpress.com/article/sports/sport-others/wrestler-yogeshwar-dutt-bags-rio-olympics-quota-in-65kg-category/","title":"Wrestler Yogeshwar Dutt bags Rio Olympics quota in 65kg category"}, 
+              {"url":"http://www.veethi.com/india-people/yogeshwar_dutt-profile-1110-15.htm","title":"Yogeshwar Dutt profile"}
+              ]
+},
+{
+  "event": "Wrestling",
+  "name": "Narsingh Pancham Yadav",
+  "dob": "6 August 1989",
+  "place": "Uttar Pradesh",
+  "category": ["74kg Freestyle"],
+  "image": "narsingh-pancham-yadav.jpg",
+  "achievements": ["World Championships 2015 Las Vegas (74kg freestyle) - Bronze", "Asian Games 2014 Incheon (74kg freestyle) - Bronze", "Asian Championships 2015 Doha (74kg freestyle) - Bronze", "Commonwealth Championships 2011 Melbourne (74kg freestyle) – Silver", "Commonwealth Games 2010 New Delhi (74kg freestyle) – Gold"],
+  "wikilink": "https://en.wikipedia.org/wiki/Narsingh_Pancham_Yadav",
+  "fb": "https://www.facebook.com/narsinghpanchamyadaaav/",
+  "twitter": "",
+  "stories": [
+          {"url":"http://www.dnaindia.com/sport/report-rio-2016-a-sneak-peek-into-the-life-of-wrestler-narsingh-pancham-yadav-2212503","title":"http://www.dnaindia.com/sport/report-rio-2016-a-sneak-peek-into-the-life-of-wrestler-narsingh-pancham-yadav-2212503"}, 
+          {"url":"http://sports.ndtv.com/wrestling/news/248494-wrestler-narsingh-pancham-yadav-books-india-s-olympic-place-for-2016-rio-games","title":"http://sports.ndtv.com/wrestling/news/248494-wrestler-narsingh-pancham-yadav-books-india-s-olympic-place-for-2016-rio-games"}, 
+          {"url":"http://www.veethi.com/india-people/narsingh_pancham_yadav-profile-1071-15.htm","title":"Narsingh Pancham Yadav"}
+          ]
+},
+{
+  "event": "Wrestling",
+  "name": "Hardeep Singh",
+  "dob": "20 December 1990",
+  "place": "Haryana",
+  "category": ["98kg Greco Roman"],
+  "image": "hardeep-singh.jpg",
+  "achievements": ["Asian Wrestling Championships 2016 Bangkok (GR 98kg) – Silver", "Commonwealth Wrestling Championship 2013 Johannesburg (GR 96kg) – Gold", "Commonwealth Wrestling Championship 2013 Johannesburg (FS 96kg) – Bronze"],
+  "wikilink": "https://en.wikipedia.org/wiki/Hardeep_Singh_(wrestler)",
+  "fb": "",
+  "twitter": "",
+  "stories": [
+            {"url":"http://www.news18.com/news/other-sports/its-time-indias-greco-roman-wrestlers-win-at-olympics-hardeep-1245032.html","title":"It's Time India's Greco-Roman Wrestlers Win at Olympics: Hardeep"}, 
+            {"url":"http://www.sportskeeda.com/wrestling/hardeep-singhs-feat-big-boost-indian-greco-roman-wrestling","title":"Hardeep Singh's feat – A big boost for Indian greco-roman wrestling"}
+            ]  
+},
+{
+  "event": "Wrestling",
+  "name": "Ravinder Khatri",
+  "dob": "",
+  "place": "",
+  "category": ["85kg Greco Roman"],
+  "image": "ravinder-khatri.jpg",
+  "achievements": [""],
+  "wikilink": "",
+  "fb": "",
+  "twitter": "",
+  "stories": []
+},
+{
+  "event": "Wrestling",
+  "name": "Vinesh Phogat",
+  "dob": "25 August 1994",
+  "place": "Haryana",
+  "category": ["48kg Freestyle"],
+  "image": "vinesh-phogat.jpg",
+  "achievements": ["Asian Wrestling Championships: 2016 Bangkok (53kg) – Bronze", "Asian Wrestling Championships: 2015 Doha (48kg) – Silver", "Commonwealth Games 2014 Glasgow (48kg) – Gold", "Asian Games 2014 Incheon (48kg) – Bronze", "Asian Wrestling Championships: 2013 New Delhi (51kg) – Bronze", "Commonwealth Wrestling Championship 2013 Johannesburg (51kg) – Silver"],
+  "wikilink": "https://en.wikipedia.org/wiki/Vinesh_Phogat",
+  "fb": "https://www.facebook.com/www.vineshphogat.com.in/",
+  "twitter": "https://twitter.com/phogat_vinesh",
+  "stories": [{"url":"https://in.news.yahoo.com/vinesh-phogat-sakshi-malik-create-175900142.html","title":"Rio 2016 Olympics: For Sakshi Malik, Vinesh Phogat, it’s never too late"}]
+},
+{
+  "event": "Wrestling",
+  "name": "Babita Kumari",
+  "dob": "20 November 1989",
+  "place": "Haryana",
+  "category": ["53kg Freestyle"],
+  "image": "babita-kumari.jpg",
+  "achievements": ["Commonwealth Games 2014 Glasgow (55kg) – Gold", "World Wrestling Championships 2012 Strathcona County (51kg) – Bronze ", "Multiple medal winner across various major tournaments", "Complete medal tally in Wikipedia"],
+  "wikilink": "https://en.wikipedia.org/wiki/Babita_Kumari",
+  "fb": "",
+  "twitter": "",
+  "stories": [
+            {"url":"http://www.veethi.com/india-people/babita_kumari-profile-6599-15.htm","title":"Babita Kumari Profile"}
+            ]
+},
+{
+  "event": "Wrestling",
+  "name": "Sakshi Malik",
+  "dob": "3 January 1993",
+  "place": "Haryana",
+  "category": ["58kg Freestyle"],
+  "image": "sakshi-malik.jpg",
+  "achievements": ["Asian Championships 2015 Doha (60kg) - Bronze", "Commonwealth Games 2014 Glasgow (58kg) – Silver"],
+  "wikilink": "https://en.wikipedia.org/wiki/Sakshi_Malik",
+  "fb": "https://www.facebook.com/sakshi.malik.5",
+  "twitter": "",
+  "stories": [
+  {"url":"http://www.indiatvnews.com/sports/other-rio-2016-vinesh-phogat-sakshi-malik-seal-olympic-berth-in-women-s-wrestling-327987","title":"Rio 2016: Vinesh Phogat, Sakshi Malik seal Olympic berth in women’s wrestling"}, 
+  {"url":"http://indianexpress.com/article/sports/sport-others/vinesh-phogat-sakshi-malik-create-history-book-two-olympic-spots-in-womens-wrestling-for-india-2789076/","title":"Rio Olympics 2016: For Sakshi Malik, Vinesh Phogat, it’s never too late"}
+  ]
+}]

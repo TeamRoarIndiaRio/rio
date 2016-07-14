@@ -1,0 +1,62 @@
+[
+	{
+  "event": "Archery",
+  "name": "Deepika Kumari",
+  "dob": "13 June 1994",
+  "place": "Bihar",
+  "category": ["Team Recurve", "Individual Recurve"],
+  "image": "deepika-kumari.jpg",
+  "achievements": ["Gold medal in the individual recurve event of the World Cup Stage II at Antalya, Turkey", "Gold medal in the individual recurve event of the World Youth Archery Competition at Legnika, Poland", "Gold medal in the team recurve event of the World Cup Stage IV at Shanghai in China", "Silver medal in the individual recurve event of the World Cup Stage III at Ogden in USA"],
+  "wikilink": "https://en.wikipedia.org/wiki/Deepika_Kumari",
+  "fb": "https://www.facebook.com/DeepikaArchery",
+  "twitter": "https://twitter.com/imdeepikak",
+  "stories": [{"url":"http://deepikakumari.com", "title":"Deepika's website"},
+              {"url":"http://worldarchery.org/athlete/8734/deepika-kumari", "title":"World Archery's profile of Deepika"},
+              {"url":"http://indianexpress.com/article/sports/sport-others/deepika-kumari-equals-world-record-in-recurve-event-at-archery-world-cup-2772916/", "title":"Deepika equals world record"},
+              {"url":"http://www.sportskeeda.com/archery/interview-need-to-be-mentally-tough-ace-archer-deepika-kumari", "title":"Sportskeeda interview with Archer Deepika Kumari"}]
+},
+{
+  "event": "Archery",
+  "name": "Laxmirani Majhi",
+  "dob": "26 January 1989",
+  "place": "Jharkhand",
+  "category": ["Team Recurve", "Individual Recurve"],
+  "image": "laxmirani-majhi.jpg",
+  "achievements": ["Silver medal at the 2015 World Archery Championships in Copenhagen, Denmark"],
+  "wikilink": "https://en.wikipedia.org/wiki/Laxmirani_Majhi",
+  "fb": "https://www.facebook.com/laxmiarchery/",
+  "twitter": "",
+  "stories": [{"url":"http://worldarchery.org/athlete/4040/laxmirani-majhi", "title":"World Archery's profile of Laxmirani"}, 
+              {"url":"http://unicef.in/PressReleases/340/Laxmirani-Majhi-Archer", "title":"Inspiring press release of Laxmirani"}, 
+              {"url":"http://www.firstpost.com/sports/rio-beckons-deepika-kumari-among-three-member-indian-archery-team-for-olympics-2783932.html", "title":"Rio beckons! Firstpost's article"}]
+},
+{
+  "event": "Archery",
+  "name": "Bombayla Devi Laishram",
+  "dob": "22 February 1985",
+  "place": "Manipur",
+  "category": ["Team Recurve", "Individual Recurve"],
+  "image": "bombayla-devi.jpg",
+  "achievements": ["Gold medal in the individual recurve event of the International Archery Challenge Cup in London", "Bronze medal in the individual event and gold medal in team event at the Asian Circuit Archery Meet in Dhaka", "Gold medal in the team event of the 1st Asian Grand Prix in Bangkok", "Silver medal in the team event of the World Cup Stage III at Ogden in USA", "Gold medal in the team recurve event of the World Cup Stage IV at Shanghai in China"],
+  "wikilink": "https://en.wikipedia.org/wiki/Bombayla_Devi_Laishram",
+  "fb": "https://www.facebook.com/Laishram-Bombayla-Devi-124902190987756/",
+  "twitter": "",
+  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/indian-women-team-in-archery-world-cup-final-2776431/", "title":"India women’s team stun Germany, enter Archery World Cup final"}, 
+              {"url":"http://worldarchery.org/athlete/6127/bombayla-devi-laishram", "title":"World Archery's profile of Bombayla"}]
+},
+{
+  "event": "Archery",
+  "name": "Atanu Das",
+  "dob": "5 April 1992",
+  "place": "West Bengal",
+  "category": ["Individual Recurve"],
+  "image": "Atanu-Das.jpg",
+  "achievements": ["World Championships 2011, Legnica - Silver", "World Championships 2013, Medellin-Bronze", "World Championships 2014, Poland-Silver", "World Cup 2014, Wroclaw-Silver", "World Cup 2014, Medellin-Silver"],
+  "wikilink": "https://en.wikipedia.org/wiki/Atanu_Das",
+  "fb": "https://www.facebook.com/public/Atanu-Das",
+  "twitter": "",
+  "stories": [{"url":"https://worldarchery.org/athlete/7295/atanu-das","title":"World Archery's profile of Atanu"}, 
+              {"url":"http://www.thehindu.com/sport/other-sports/archery-association-of-india-selects-atanu-das-for-rio-olympics-in-mens-recurve-event/article8775761.ece","title":"AAI selects Atanu Das for Rio Olympics"}]
+}
+]
+

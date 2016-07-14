@@ -1,0 +1,57 @@
+﻿[
+	{
+  "event": "Table Tennis",
+  "name": "Soumyajit Ghosh",
+  "dob": "10 May 1993",
+  "place": "West Bengal",
+  "category": ["Men's Singles"],
+  "image": "soumyajit-ghosh.jpg",
+  "achievements": ["India’s youngest Table Tennis player to qualify for the 2012 London Olympics", "2008 Junior Commonwealth Games– silver", "2011 World Junior Circuit title– winner", "Won U-21 Brazil Open title in 2013", "3rd Lusofonia Games 2014, Goa – silver (singles), gold (mixed doubles), gold (men’s team), bronze (men’s doubles)"],
+  "wikilink": "https://en.wikipedia.org/wiki/Soumyajit_Ghosh",
+  "fb": "https://www.facebook.com/soumyajit.ghosh?ref=br_rs",
+  "twitter": "",
+  "stories": [
+  {"url":"http://www.ittf.com/_front_page/ittf_full_story1.asp?ID=42161&Competition_ID=2604&","title":"Soumyajit Causes Third Round Surprise, Dents Swedish Hopes"}, 
+  {"url":"http://www.thehindu.com/sport/other-sports/rio-olympics-2016-i-am-in-good-shape-for-rio-says-soumyajit-ghosh/article8594691.ece","title":"I am in good shape for Rio: Soumyajit Ghosh"}
+  ]
+},
+{
+  "event": "Table Tennis",
+  "name": "Achanta Sharath Kamal",
+  "dob": "12 July 1982",
+  "place": "Tamil Nadu.",
+  "category": ["Men's Singles"],
+  "image": "achanta-sharath-kamal.jpg",
+  "achievements": ["Multiple medal winner in all major events around world and 2006 Commonwealth Games gold medalist.", "Complete medal tally in Wikipedia", "Arjuna award winner for Table Tennis in 2004"],
+  "wikilink": "https://en.wikipedia.org/wiki/Sharath_Kamal",
+  "fb": "https://www.facebook.com/sharathkamal",
+  "twitter": "https://twitter.com/sharathkamal1",
+  "stories": [{"url":"http://www.iloveindia.com/sports/table-tennis/players/achanta-kamal.html","title":"Achanta Sharath Kamal Profile"}]
+},
+{
+  "event": "Table Tennis",
+  "name": "Mouma Das",
+  "dob": "24 February 1984",
+  "place": "West Bengal",
+  "category": ["Women's Singles"],
+  "image": "mouma-das.jpg",
+  "achievements": ["Commonwealth Games 2010, Delhi – silver (team), bronze (women’s doubles)", "Arjuna award winner for Table Tennis in 2013"],
+  "fb": "https://www.facebook.com/moumadasfanclub/",
+  "twitter": "",
+  "wikilink": " https://en.wikipedia.org/wiki/Mouma_Das",
+  "stories": [{"url":"http://www.dnaindia.com/sport/report-peter-engel-s-words-inspired-me-mouma-das-2156475","title":"Peter Engel's words inspired me: Mouma Das"}]
+},
+{
+  "event": "Table Tennis",
+  "name": "Manika Batra",
+  "dob": "15 June 1995",
+  "place": "New Delhi",
+  "category": ["Women's Singles"],
+  "image": "manika-batra.jpg",
+  "achievements": ["under-21 (youth) category of ITTF pro-tour Chile Open, 2011 - silver", "Commonwealth Championship, 2016 – 2 silver and 2 bronze medals", "South Asian Games – 3 gold medals"],
+  "wikilink": "",
+  "fb": "https://www.facebook.com/Manika-Batra-1706062189632894/",
+  "twitter": "",
+  "stories": [{"url":"http://www.sportskeeda.com/table-tennis/interview-with-manika-batra-table-tennis-no-1","title":"Interview with Manika Batra: I don’t want to go to Rio Olympics and return without a medal"}]
+}
+]

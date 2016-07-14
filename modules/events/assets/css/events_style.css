@@ -1,0 +1,146 @@
+ 
+
+html,body {
+	height: 100%;
+	width: 100%;
+	background: #d4d4d4;
+}
+h3{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+	margin-left: 3%;
+}
+.wrapper{
+	margin: 0 auto;
+	min-height: 77.2%;
+	/*width: 80%*/
+	    background-color: #ffb400;
+}
+#wrap h2{
+	background-color: #ffb400;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+	margin: 0;
+	padding: 1% 0;
+}
+li{
+	/*background-color: #0c1e45;*/
+	text-align: center;
+}
+.wrapper ul li a{
+	/*font-family: "Comic Sans MS", cursive, sans-serif;*/
+	font-family: oswald;
+	/*color: white;*/
+	font-size: 1em;
+}
+.eventInNav.active{
+	cursor: pointer;
+}
+
+.wrapper ul li:active {
+	/*background-color: #ffb400;*/
+	/*color: #0c1e45;*/
+}
+.eventsNav{
+	list-style: none;
+}
+.active{
+	background-color: #bd973c;
+	border-radius: 0px;
+}
+.eventInNav a{
+	color: #d2dae0;
+}
+.active a{
+	color: #094375;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li:hover{
+	background-color: #ffb400;
+}
+.specific_event{
+	/*width: 100%;*/
+	/*min-height: 200px;
+	background-color: #ffb400;*/
+	/*height: 100%;*/
+}
+.specific_event div{
+	padding: 0px;
+	margin: 3% 3%;
+	background-color: #ffffff;
+	min-height: 100px;
+}
+.specific_event img{
+	width: 100%;
+	height: 120px;
+}
+.specific_event p, .specific_event h3{
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+	text-align: center;
+	word-spacing: 2px;
+	line-height: 2;
+	color: #0c1e45;
+}
+.nav>li>a:focus, .nav>li>a:hover{
+	background-color: #ffb400;
+	color: #ffffff;
+	border-radius: 0px;
+}
+.p0 {
+	padding: 0;
+}
+
+@media only screen and (max-width: 996px) {
+	.wrapper{
+		width: 100%
+	}
+	.playerDetails p{
+		font-size: 11px;
+	}
+
+}
+
+.m0 {
+	margin: 0;
+}
+.eventInNav{
+	padding: 10px;
+	cursor: pointer;
+}
+
+.eventsNav{
+	background-color: #0c1e45;
+}
+.eventsPageDisplayArea {
+	/*display: flex;*/
+	/*height: 100%;*/
+	background-color: #0c1e45;
+}
+.eventsDisp{
+	/*min-height: 200px;*/
+	background-color: #ffb400;
+	/*height: 100%;*/
+}
+.eventHeaderName{
+	text-align: left;
+	text-transform: capitalize;
+	text-decoration: underline;
+	
+}
+.eventHeaderName h3{
+	margin-top: 7px !important;
+}
+@media (min-width: 768px){
+	
+	.arr-icon-black.pull-right {
+	     display: inline-block; 
+	}
+}
+@media (max-width: 767px){	
+	.eventsDisp {
+		display: none;
+	}
+	.eventInNav.active .arr-icon-black {
+    	background: url(../../../../assets/images/downarrow.png) no-repeat;
+    	width: 20px;
+     	height: 15px;
+	}
+}

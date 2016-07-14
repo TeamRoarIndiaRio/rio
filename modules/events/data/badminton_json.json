@@ -1,0 +1,106 @@
+[
+	{
+  "event": "Badminton",
+  "name": "Kidambi Srikanth",
+  "dob": "7 February 1993",
+  "place": "Andhra Pradesh",
+  "category": ["Singles"],
+  "image": "kidambi-srikanth.jpg",
+  "achievements": ["Asia Championships 2016, Hyderabad (Men’s team) – bronze", "South Asian Games 2016, Guwahati (Men’s singles) – gold", "South Asian Games 2016, Guwahati (Men’s team) – gold", "Asian Junior Championships 2011, Lucknow (Mixed team) – bronze", "Commonwealth Youth Games 2011, Douglas (Mixed Doubles) – silver", "Commonwealth Youth Games 2011, Douglas (Boy’s Doubles) – bronze"],
+  "wikilink": "https://en.wikipedia.org/wiki/Srikanth_Kidambi",
+  "fb": "https://www.facebook.com/GSFKidambiSrikanth",
+  "twitter": "https://twitter.com/srikidambi",
+  "stories": [
+  {"url":"http://sports.ndtv.com/olympics-2016/news/255746-kidambi-srikanth-hopes-his-consistency-and-hard-work-pay-off-at-rio-olympics","title":"Kidambi Srikanth hopes his consistency and hard work pay off at Rio Olympics"}
+  ]
+},
+{
+  "event": "Badminton",
+  "name": "Manu Attri",
+  "dob": "31 December 1992",
+  "place": "Uttar Pradesh",
+  "category": ["Doubles"],
+  "image": "manu-attri.jpg",
+  "achievements": ["Highest and current Ranking #24 (02 July 2015)", "Won Grand Prix title in Mexico Open 2015.", "Competed in the 2014 Asian games"],
+  "wikilink": "https://en.wikipedia.org/wiki/Manu_Attri",
+  "fb": "",
+  "twitter": "https://twitter.com/atrimanu",
+  "stories": [
+  {"url":"https://www.youtube.com/watch?v=ffzDoI1SsMA","title":"Youtube: Manu Attri Interview - Badminton star from Meerut"}, 
+  {"url":"http://www.firstpost.com/sports/first-doubles-triumph-manu-attri-and-sumeeth-reddy-clinch-mexico-open-grand-prix-2555824.html","title":"First doubles triumph: Manu Attri and Sumeeth Reddy clinch Mexico Open Grand Prix"}
+  ]
+},
+{
+  "event": "Badminton",
+  "name": "Sumeeth Reddy",
+  "dob": "26 September 1991",
+  "place": "Andhra Pradesh",
+  "category": ["Doubles"],
+  "image": "sumeeth-reddy.jpg",
+  "achievements": ["Highest Ranking #17 (31 December 2015)", "Current Ranking #19 (28 April 2016)", "Won Grand Prix title in Mexico Open 2015.", "Competed in the 2014 Asian games"],
+  "wikilink": "https://en.wikipedia.org/wiki/B._Sumeeth_Reddy",
+  "fb": "https://www.facebook.com/sumeeth.reddy",
+  "twitter": "https://twitter.com/buss_reddy",
+  "stories": [{"url":"http://www.thehindu.com/sport/badmintons-promising-stars/article7659248.ece","title":"Sumeeth Reddy and Manu Attri are emerging as the new talent in badminton"}]
+},
+{
+  "event": "Badminton",
+  "name": "Saina Nehwal",
+  "dob": "17 March 1990",
+  "place": "Haryana",
+  "category": ["Singles"],
+  "image": "saina-nehwal.jpg",
+  "achievements": ["Highest Ranking #1 (02 April 2015)", "Current Ranking #8 (28 April 2016)", "Multiple medal winner in all major events around world and Olympic bronze medal winner in 2012, London.", "Career Titles – 21", "Complete medal tally in Wikipedia"],
+  "wikilink": "https://en.wikipedia.org/wiki/Saina_Nehwal",
+  "fb": "https://www.facebook.com/SainaNehwal.OGQ/",
+  "twitter": "https://twitter.com/NSaina",
+  "stories": [
+  {"url":"http://www.hindustantimes.com/other-sports/sania-mirza-saina-nehwal-awarded-the-padma-bhushan/story-j9PdYDLCOHcNPldEdWtV1N.html","title":"Sania Mirza, Saina Nehwal awarded the Padma Bhushan"}, 
+  {"url":"http://timesofindia.indiatimes.com/sports/badminton/Saina-Nehwal-dedicates-Padma-Bhushan-award-to-coach-Vimal/articleshow/50721504.cms","title":"Saina Nehwal dedicates Padma Bhushan award to coach Vimal"}, 
+  {"url":"http://www.mapsofindia.com/who-is-who/sports/saina-nehwal.html","title":"Saina Nehwal Biography"}]
+},
+{
+  "event": "Badminton",
+  "name": "P V Sindhu",
+  "dob": "05 July 1995",
+  "place": "Telangana",
+  "category": ["Singles"],
+  "image": "p-v-sindhu.jpg",
+  "achievements": ["Highest Ranking #9 (13 March 2014)", "Current Ranking #10 (07 April 2016)", "Multiple medal winner in all major events around world", "Complete Medal tally in Wikipedia"],
+  "wikilink": "https://en.wikipedia.org/wiki/P._V._Sindhu",
+  "fb": "https://www.facebook.com/PVSindhu.OGQ/",
+  "twitter": "https://twitter.com/Pvsindhu1",
+  "stories": [
+  {"url":"http://www.mapsofindia.com/who-is-who/sports/p-v-sindhu.html","title":"PV Sindhu Biography"}, 
+  {"url":"http://indianexpress.com/article/sports/badminton/pv-sindhu-ready-to-stoop-conquer-at-rio-2016-olympics-2788184/","title":"PV Sindhu ready to stoop and conquer at Rio Games 2016"}
+  ]
+},
+{
+  "event": "Badminton",
+  "name": "Jwala Gutta",
+  "dob": "07 September 1983",
+  "place": "Maharashtra",
+  "category": ["Doubles"],
+  "image": "jwala-gutta.jpg",
+  "achievements": ["Highest Ranking #06 (in XD) (31 December 2015), #10 (in WD) (20 August 2015)", "Current Ranking #14 (in WD) (05 May 2016)", "3 gold medals in South Asian Games 2016, multiple bronze and silver medals in World Championships 2011, Commonwealth Games (2016,2010,2014), Uber Cup (2014), Asia Championships (2014)", "Complete Medal tally in Wikipedia"],
+  "wikilink": "https://en.wikipedia.org/wiki/Jwala_Gutta",
+  "fb": "https://www.facebook.com/Guttajwala1/",
+  "twitter": "https://twitter.com/Guttajwala",
+  "stories": [
+  {"url":"http://www.firstpost.com/sports/stop-giving-step-motherly-treatment-to-badminton-doubles-jwala-gutta-2617472.html","title":"Stop giving step-motherly treatment to badminton doubles: Jwala Gutta"}, 
+  {"url":"https://www.instagram.com/jwalagutta1/?hl=en","title":"Jwala Instagram Profile"}]
+},
+{
+  "event": "Badminton",
+  "name": "Ashwini Ponnappa",
+  "dob": "18 September 1989",
+  "place": "Karnataka",
+  "category": ["Doubles"],
+  "image": "ashwini-ponnappa.jpg",
+  "achievements": ["Highest Ranking #10 (20 August 2015)", "Current Ranking #14 (14 January 2016)", "Multiple gold and silver medals in Commonwealth Games (2010 and 2014) and South Asian Games (2016), bronze medals in World Championships 2011, Uber Cup 2014, Asian Games 2014.", "Complete Medal tally in Wikipedia"],
+  "wikilink": "https://en.wikipedia.org/wiki/Ashwini_Ponnappa",
+  "fb": "https://www.facebook.com/AshwiniPonnappa/",
+  "twitter": "https://twitter.com/P9Ashwini",
+  "stories": [{"url":"https://www.youtube.com/watch?v=l7z4MohZ9ZU","title":"Youtube: Know Your Stars - Ashwini Ponnappa"}]
+}
+]
