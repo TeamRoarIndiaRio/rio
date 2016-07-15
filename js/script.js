@@ -28,7 +28,7 @@ $( document ).ready(function(){
 		      	$.each(data,function(i,data){
 		      		if(data.name.toLowerCase() == search_field){
 						$('#exampleModal').modal('show')
-		      			$(".player-details img").attr("src", "modules/events/assets/" + data.image);
+		      			$(".player-details img").attr("src", "assets/" + data.image);
 		      			$('#exampleModalLabel').html(data.name)
 		      			$("<p>" + data.name + "</p>").appendTo(".player_name");
 		      			$("<p>" + data.dob + "</p>").appendTo(".player_dob");
@@ -36,9 +36,7 @@ $( document ).ready(function(){
 		      			for(var j=0;j<data.category.length; j++){
 		      				$("<p>" + data.category[j] + "</p>").appendTo(".player_category");
 		      			}
-		      			console.log(data);
 		      			for(var j=0;j<data.achievements.length; j++){
-		      				console.log(data.achievements[j]);
 		      				$("<p>" + data.achievements[j] + "</p>").appendTo(".player_achievements");
 		      			}
 		      			for(var j=0;j<data.stories.length; j++){

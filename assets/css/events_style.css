@@ -12,8 +12,7 @@ h3{
 .wrapper{
 	margin: 0 auto;
 	min-height: 77.2%;
-	/*width: 80%*/
-	    background-color: #ffb400;
+	background-color: #ffb400;
 }
 #wrap h2{
 	background-color: #ffb400;
@@ -23,23 +22,16 @@ h3{
 	padding: 1% 0;
 }
 li{
-	/*background-color: #0c1e45;*/
 	text-align: center;
 }
 .wrapper ul li a{
-	/*font-family: "Comic Sans MS", cursive, sans-serif;*/
 	font-family: oswald;
-	/*color: white;*/
 	font-size: 1em;
 }
 .eventInNav.active{
 	cursor: pointer;
 }
 
-.wrapper ul li:active {
-	/*background-color: #ffb400;*/
-	/*color: #0c1e45;*/
-}
 .eventsNav{
 	list-style: none;
 }
@@ -55,12 +47,6 @@ li{
 }
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li:hover{
 	background-color: #ffb400;
-}
-.specific_event{
-	/*width: 100%;*/
-	/*min-height: 200px;
-	background-color: #ffb400;*/
-	/*height: 100%;*/
 }
 .specific_event div{
 	padding: 0px;
@@ -110,14 +96,10 @@ li{
 	background-color: #0c1e45;
 }
 .eventsPageDisplayArea {
-	/*display: flex;*/
-	/*height: 100%;*/
 	background-color: #0c1e45;
 }
 .eventsDisp{
-	/*min-height: 200px;*/
 	background-color: #ffb400;
-	/*height: 100%;*/
 }
 .eventHeaderName{
 	text-align: left;
@@ -139,8 +121,11 @@ li{
 		display: none;
 	}
 	.eventInNav.active .arr-icon-black {
-    	background: url(../../../../assets/images/downarrow.png) no-repeat;
+    	background: url(../../assets/images/downarrow.png) no-repeat;
     	width: 20px;
      	height: 15px;
+	}
+	.active {
+    background-color: #ffb400;
 	}
 }

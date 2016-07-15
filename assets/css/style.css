@@ -1,7 +1,5 @@
-/*EFE801*/
 .wrapper{
 	width: 100%;
-	/*background-color: #f7f7f7;*/
 }
 @font-face {
     font-family: oswald;
@@ -65,9 +63,7 @@
     margin: 0;
 }
 .logo-name span{
-    font-family: PoiretOne-Regular;
     font-family: ShadowsIntoLight2;
-    /*font-family: oswald;*/
     font-size: 18px;
 }
 .input-div{
@@ -137,7 +133,7 @@
     font-family: oswald;
 }
 .eventInNav.active .arr-icon-black {
-    background: url(../images/mobile_global_1x.png) no-repeat -682px -84px;
+    background: url(../images/arrows.png) no-repeat -682px -84px;
     width: 11px;
     height: 21px;
     display: inline-block;
@@ -393,36 +389,3 @@ margin-left: 45px !important;
         float: none;
     }
 }
-/*.members .kot-member .front, .members .kot-member .back {
-    width: 150px !important;
-    height: 150px !important;
-     display: table !important;
-    margin:0 auto !important;
- 
-}
-
-.members .kot-member .back {
-    padding: 1% 0 0 0;
-    
-}
-.members .kot-member .back h2{
-    font-size: 22px;
-}
-.mem-comtainer{
-    padding-left: 4% !important;
-}
-@media (min-width: 769px) and (max-width: 1024px){
-    .mem-comtainer{
-    padding-left: 2.5% !important
-}
-}
-@media (min-width: 602px) and (max-width: 768px){
-    .mem-comtainer{
-    padding-left: 7% !important
-}
-}
-@media (min-width: 320px) and (max-width: 601px){
-    .mem-comtainer{
-    padding-left: 4.5% !important
-}
-}*/

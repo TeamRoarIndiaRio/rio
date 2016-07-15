@@ -1,9 +1,9 @@
 'use strict'
 $(document).ready(function(){
 	//load header and footer
-	$( "header#header" ).load( "../../templates/header.html" );
-	$( "footer#footer" ).load( "../../templates/footer.html" );
-	$( ".modalPopupArea" ).load( "../../templates/playerpopup.html" );
+	$( "header#header" ).load( "templates/header.html" );
+	$( "footer#footer" ).load( "templates/footer.html" );
+	$( ".modalPopupArea" ).load( "templates/playerpopup.html" );
 
 	//function to read url params
 	function GetURLParameter(sParam) {
@@ -101,7 +101,6 @@ $(document).ready(function(){
 					else $(".twitter-profile a").attr("href","javascript:void(0)");
 					if(data.wikilink != "")$(".wiki-link a").attr({"href":data.wikilink,"target":"_BLANK"});
 					else $(".wiki-link a").attr("href","javascript:void(0)");
-					console.log(data.fb + ".." +data.twitter +".." + data.wikilink) 
 	      			$('#exampleModalLabel').html(data.name)
 	      			$("<p>" + data.name + "</p>").appendTo(".player_name");
 	      			$("<p>" + data.dob + "</p>").appendTo(".player_dob");
@@ -109,7 +108,6 @@ $(document).ready(function(){
 	      			for(var j=0;j<data.category.length; j++){
 	      				$("<p>" + data.category[j] + "</p>").appendTo(".player_category");
 	      			}
-	      			console.log(data);
 	      			for(var j=0;j<data.achievements.length; j++){
 	      				$("<p>" + data.achievements[j] + "</p>").appendTo(".player_achievements");
 	      			}
