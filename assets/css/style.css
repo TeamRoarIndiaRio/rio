@@ -205,7 +205,7 @@ footer{
 }
 .kot-link{
     float: right;
-    padding: 10px;
+    padding: 20px;
 }
 .kot-link a{
     font-size: 16px;
@@ -220,14 +220,35 @@ footer{
     display: block;
     padding: 10px;
     margin: 0;
+    text-align: center;
 }
 .social-links li{
     display: inline-block;
     margin: 5px;
 }
-.social-links li a:hover{
-    color: #7EBAEC;
-    text-decoration: none;
+.social-links li a{
+    width: 32px;
+    height: 32px;
+    background-position-y: 32px;
+    display: inline-block;
+}
+.social-links li.facebook a{
+    background-image: url(../images/facebook.png);
+}
+.social-links li.twitter a{
+    background-image: url(../images/twitter.png);
+}
+.social-links li.contact-us a{
+    background-image: url(../images/twitter.png);
+}
+.social-links li.whatsapp a{
+    background-image: url(../images/whatsapp.png);
+}
+.social-links li.facebook a:hover,.social-links li.twitter a:hover, .social-links li.contact-us a:hover{
+   background-position-y: 0px; 
+}
+.social-links .social-wrapper{
+    float: left;
 }
 .footer-social{
     display: inline-block !important;
@@ -358,9 +379,25 @@ margin-left: 45px !important;
         margin:11px 0px 0 10px;
     }
 }
+@media screen and (max-width: 768px){
+    .social-links li.whatsapp{
+        display: inline-block !important;
+    }
+}
 @media (min-width: 320px) and (max-width: 375px){
     .logo-name{
         padding-left: 20px;
+    }
+    .social-links .social-wrapper{
+    float: none;
+    }
+}
+@media  (max-width: 375px){
+    .social-links .social-wrapper{
+    float: none;
+    }
+    .kot-link{
+    padding-top: 40px;
     }
 }
 .ui-autocomplete {

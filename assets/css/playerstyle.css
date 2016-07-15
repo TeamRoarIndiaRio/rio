@@ -11,21 +11,26 @@
 	max-width: 960px;
 	margin: 0 auto;
 }
-.social-links {
+.social-links-player {
  text-align: center; 
 }
-.social-links img{
+.social-links-player img{
  width: 30px;
     height: 30px;
     border-radius: 32px;
 }
-.social-links span{
+.social-links-player span{
  margin: 0 5px;
 }
 .close span{
  font-size: 36px;
  color: #000;
 }
+.link-disable{
+     cursor: not-allowed;
+     opacity: 0.6;
+    color: grey;
+ }
 @media only screen and (min-width: 37.5em) and (max-width: 62.5em) {
 	.Olympics-Content{
 		width: auto;
