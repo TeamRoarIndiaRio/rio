@@ -40,7 +40,7 @@ $( document ).ready(function(){
 		      				$("<p>" + data.achievements[j] + "</p>").appendTo(".player_achievements");
 		      			}
 		      			for(var j=0;j<data.stories.length; j++){
-		      				$("<p><a href='" + data.stories[j].url + "'>"+ data.stories[j].title+"</a></p>").appendTo(".player_links");
+		      				$("<p><a target='_BLANK' href='" + data.stories[j].url + "'>"+ data.stories[j].title+"</a></p>").appendTo(".player_links");
 		      			}
 		      			if(data.fb != "")$(".fb-profile a").attr({"href":data.fb,"target":"_BLANK"});
 		      			else $(".fb-profile a").attr("href","javascript:void(0)");
