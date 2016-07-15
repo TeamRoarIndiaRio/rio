@@ -10,6 +10,10 @@
     src: url(../fonts/Arizonia-Regular.ttf);
 }
 @font-face {
+    font-family: IndieFlower;
+    src: url(../fonts/IndieFlower.ttf);
+}
+@font-face {
     font-family: ShadowsIntoLight;
     src: url(../fonts/ShadowsIntoLight.ttf);
 }
@@ -126,11 +130,14 @@
     text-align: center;
 }
 .caption .cap-hdr-txt {
-    font-size: 16px;
+    font-size: 19px;
     color: #333;
     display: block;
     font-weight: bold;
     font-family: oswald;
+}
+.caption .cap-hdr-txt:focus {
+    color: #0e65ab;
 }
 .eventInNav.active .arr-icon-black {
     background: url(../images/arrows.png) no-repeat -682px -84px;
@@ -205,6 +212,7 @@ footer{
 }
 .kot-link{
     float: right;
+    text-align: center;
     padding: 20px;
 }
 .kot-link a{
@@ -216,9 +224,18 @@ footer{
 .kot-link a:hover{
     color: #ffde00;
 }
+.footer-temp .kot-link{
+    padding: 10px;
+}
+.kot-link > p{
+    margin-bottom: 5px;
+}
+.kot-link > p:last-child{
+    margin-bottom: 0;
+}
 .social-links{
     display: block;
-    padding: 10px;
+    padding: 12px 5px;
     margin: 0;
     text-align: center;
 }
@@ -339,12 +356,12 @@ margin-left: 45px !important;
         min-width: 58px;
     }
     .landing-events > div{
-        height: 39px;
+        height: 60px;
     }
     .image-block img{
         width: 100%;
         border-radius: 0px;
-        height: 30px;
+        height: 45px;
     }
     .thumbnail{
         border-bottom: 1px solid #ccc;
@@ -397,7 +414,7 @@ margin-left: 45px !important;
     float: none;
     }
     .kot-link{
-    padding-top: 40px;
+        padding-top: 25px;
     }
 }
 .ui-autocomplete {

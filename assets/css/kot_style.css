@@ -13,7 +13,10 @@ h2,h3{
 	color: #5f5f5f;
 }
 h1 span{
-	color: #39961b;
+    font-family: PoiretOne-Regular;
+    font-family: ShadowsIntoLight;
+	font-size: 45px;
+    color: #ffca00;
 }
 .wrapper{
 	/*width: 100%;*/
@@ -26,16 +29,16 @@ h1 span{
 }
 .team-details h1{
 	/*color: #4a4a4a;*/
-	color: #0c4d82;
+	color: #3c3b3b;
 	font-weight: bold;
 	font-family: PoiretOne;
-	font-size: 40px;
+	font-size: 38px;
 	text-align: center;
 }
 .team-details p{
 	/*color: #565656;*/
 	/*color: #6d5757;*/
-	color: #0e65ab;
+	color: #5f5829;
 	font-size: 22px;
 	font-family: PoiretOne;
 	font-weight: bold;
@@ -166,7 +169,7 @@ h1 span{
 	}
 	.team-details p{
 		/*color: #565656;*/
-		color: #0e65ab;
+		color: #5f5829;
     	font-size: 17px;
     	text-align: left !important;
 	}
