@@ -1,129 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
-<url>
-    <loc>http://roarindiario.in</loc>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
 <url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=archery</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=athletics</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=boxing</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=badminton</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=hockey</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=gymnastics</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=judo</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=rowing</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=shooting</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=tabletennis</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=tennis</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=weightlifting</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=wrestling</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=swimming</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/events/event.html?event=golf</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
-<url>
-    <loc>http://roarindiario.in/modules/kot/kot.html</loc>
-
-    <lastmod>2016-07-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-</url>  
+  <loc>http://roarindiario.in/</loc>
+  <changefreq>always</changefreq>
+</url>
 </urlset>
