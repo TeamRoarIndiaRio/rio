@@ -119,7 +119,7 @@ $(document).ready(function(){
 	      			// $("<p><a href='" + data.twitter + "'>Twitter Link</a></p>").appendTo(".player_twitter");
 
 	      			for(var j=0;j<data.stories.length; j++){
-	      				$("<p><a href='" + data.stories[j].url + "'>"+ data.stories[j].title+"</a></p>").appendTo(".player_links");
+	      				$("<p><a target='_BLANK' href='" + data.stories[j].url + "'>"+ data.stories[j].title+"</a></p>").appendTo(".player_links");
 	      			}
 	      		}
 	      	});
