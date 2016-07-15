@@ -68,8 +68,8 @@ $(document).ready(function(){
 						//player display template
 						var playerDisplay = [
 							"<div class='col-lg-5 col-md-5 col-sm-5 col-xs-5'>",
-								"<div class='col-lg-5 col-md-5 col-sm-5'>",
-									"<img alt='" + data.name + "' src='assets/" + data.image + "' title='" + data.name + "'>",
+								"<div class='playerImage-wrap col-lg-5 col-md-5 col-sm-5'>",
+									"<img class = 'playerImage' alt='" + data.name + "' src='assets/" + data.image + "' title='" + data.name + "'>",
 								"</div>",
 								"<div class='playerDetails col-lg-5 col-md-5 col-sm-5'>",
 									"<p><a href='javascript:void(0);'>" +data.name+ "</a></p>",
@@ -88,6 +88,9 @@ $(document).ready(function(){
 			// $('.eventsPageDisplayArea').css('min-height',newHeight);
 			// $('.eventsDisp').css('min-height',newHeight);
 		}
+		$('.playerImage').on('click',function(e){
+			$(this).parents('.playerImage-wrap').siblings('.playerDetails').children('p').children('a').trigger('click')
+		});
 		$(document).on('click','.playerDetails p a',function(e){
 			$(".right-details, #exampleModalLabel").empty();	   	
 		    $.each(data,function(i,data){
