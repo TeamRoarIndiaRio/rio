@@ -130,7 +130,7 @@
     text-align: center;
 }
 .caption .cap-hdr-txt {
-    font-size: 19px;
+    font-size: 17px;
     color: #333;
     display: block;
     font-weight: bold;
@@ -356,12 +356,12 @@ margin-left: 45px !important;
         min-width: 58px;
     }
     .landing-events > div{
-        height: 60px;
+        height: 53px;
     }
     .image-block img{
         width: 100%;
         border-radius: 0px;
-        height: 45px;
+        height: 42px;
     }
     .thumbnail{
         border-bottom: 1px solid #ccc;
@@ -411,7 +411,7 @@ margin-left: 45px !important;
 }
 @media  (max-width: 375px){
     .social-links .social-wrapper{
-    float: none;
+    float: left;
     }
     .kot-link{
         padding-top: 25px;
