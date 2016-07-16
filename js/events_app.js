@@ -88,7 +88,7 @@ $(document).ready(function(){
 			// $('.eventsPageDisplayArea').css('min-height',newHeight);
 			// $('.eventsDisp').css('min-height',newHeight);
 		}
-		$('.playerImage').on('click',function(e){
+		$(document).on('click','.playerImage',function(e){
 			$(this).parents('.playerImage-wrap').siblings('.playerDetails').children('p').children('a').trigger('click')
 		});
 		$(document).on('click','.playerDetails p a',function(e){
