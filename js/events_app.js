@@ -98,12 +98,24 @@ $(document).ready(function(){
 					$('#exampleModal').modal('show')
 	      			$(".player-details img").attr("src", 'assets/' + data.image);
 	      			//sakthi change
-	      			if(data.fb != "")$(".fb-profile a").attr({"href": data.fb,"target":"_BLANK"});
-	      			else $(".fb-profile a").attr("href","javascript:void(0)").addClass("link-disable");
-					if(data.twitter != "")$(".twitter-profile a").attr({"href": data.twitter,"target":"_BLANK"});
-					else $(".twitter-profile a").attr("href","javascript:void(0)").addClass("link-disable");
-					if(data.wikilink != "")$(".wiki-link a").attr({"href":data.wikilink,"target":"_BLANK"});
-					else $(".wiki-link a").attr("href","javascript:void(0)").addClass("link-disable");
+	      			if(data.fb != ""){
+	      			$(".fb-profile a").attr({"href": data.fb,"target":"_BLANK"}).removeClass("link-disable");
+	      			}
+	      			else {
+	      			$(".fb-profile a").attr("href","javascript:void(0)").addClass("link-disable");
+	      			}
+					if(data.twitter != ""){
+					$(".twitter-profile a").attr({"href": data.twitter,"target":"_BLANK"}).removeClass("link-disable");
+					}
+					else{
+					 $(".twitter-profile a").attr("href","javascript:void(0)").addClass("link-disable");
+					 }
+					if(data.wikilink != ""){
+					$(".wiki-link a").attr({"href":data.wikilink,"target":"_BLANK"}).removeClass("link-disable");
+					}
+					else {
+					$(".wiki-link a").attr("href","javascript:void(0)").addClass("link-disable");
+					}
 	      			$('#exampleModalLabel').html(data.name)
 	      			$("<p>" + data.name + "</p>").appendTo(".player_name");
 	      			$("<p>" + data.dob + "</p>").appendTo(".player_dob");
