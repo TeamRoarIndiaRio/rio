@@ -400,6 +400,9 @@ margin-left: 45px !important;
     .social-links li.whatsapp{
         display: inline-block !important;
     }
+    .social-links li.facebook a:hover,.social-links li.twitter a:hover, .social-links li.contact-us a:hover{
+        background-position-y: 32px; 
+}
 }
 @media (min-width: 320px) and (max-width: 375px){
     .logo-name{
