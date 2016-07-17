@@ -19,7 +19,7 @@ h3{
 	text-align: center;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
 	margin: 0;
-	padding: 1% 0;
+	padding: 10px 0;
 }
 li{
 	text-align: center;
@@ -36,14 +36,30 @@ li{
 	list-style: none;
 }
 .active{
-	background-color: #bd973c;
+	/*background-color: #bd973c;*/
+	background-color: #ffde00;
 	border-radius: 0px;
 }
 .eventInNav a{
 	color: #d2dae0;
 }
+.eventInNav.active:hover{
+	background-color: #ffde00;
+}
+.eventInNav.active:hover a{
+	color: #094375;
+}
+.eventInNav:hover{
+	background-color: #034377;
+}
+.eventInNav:hover > a{
+	text-decoration: none;
+	/*border-bottom: 1px solid #fff;*/
+	color: #fff;
+}
 .active a{
 	color: #094375;
+	text-decoration: none;
 }
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li:hover{
 	background-color: #ffb400;
@@ -95,9 +111,11 @@ li{
 	cursor: pointer;
 	border-bottom: 1px solid #ffde00;
 }
-
+.eventInNav:last-child{
+	border-bottom: 0;
+}
 .eventsNav{
-	background-color: #0c1e45;
+	background-color: #023158;
 }
 .eventsPageDisplayArea {
 	background-color: #0c1e45;
@@ -130,6 +148,6 @@ li{
      	height: 15px;
 	}
 	.active {
-    background-color: #ffb400;
+   		background-color: #ffb400 !important;
 	}
 }
