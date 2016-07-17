@@ -335,6 +335,9 @@ margin-left: 45px !important;
     .image-block,.caption{
         width: 45px;
     }
+    .caption .cap-hdr-txt:hover {
+        color: #0e65ab;
+    }
     .logo-name{
         font-size: 28px;
         letter-spacing: 3px !important;
@@ -394,6 +397,12 @@ margin-left: 45px !important;
     .input-div button{
         float: left;
         margin:11px 0px 0 10px;
+    }
+    #wrap h2{
+        font-size: 24px;
+    }
+    .kot-link a{
+        font-size: 12px;
     }
 }
 @media screen and (max-width: 768px){
