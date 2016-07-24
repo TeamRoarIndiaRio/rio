@@ -10,10 +10,10 @@
   "wikilink": "https://en.wikipedia.org/wiki/Deepika_Kumari",
   "fb": "https://www.facebook.com/DeepikaArchery",
   "twitter": "https://twitter.com/imdeepikak",
-  "stories": [{"url":"http://deepikakumari.com", "title":"Deepika's website"},
-              {"url":"http://worldarchery.org/athlete/8734/deepika-kumari", "title":"World Archery's profile of Deepika"},
-              {"url":"http://indianexpress.com/article/sports/sport-others/deepika-kumari-equals-world-record-in-recurve-event-at-archery-world-cup-2772916/", "title":"Deepika equals world record"},
-              {"url":"http://www.sportskeeda.com/archery/interview-need-to-be-mentally-tough-ace-archer-deepika-kumari", "title":"Sportskeeda interview with Archer Deepika Kumari"}]
+  "stories": [{"url":"//deepikakumari.com", "title":"Deepika's website"},
+              {"url":"//worldarchery.org/athlete/8734/deepika-kumari", "title":"World Archery's profile of Deepika"},
+              {"url":"//indianexpress.com/article/sports/sport-others/deepika-kumari-equals-world-record-in-recurve-event-at-archery-world-cup-2772916/", "title":"Deepika equals world record"},
+              {"url":"//www.sportskeeda.com/archery/interview-need-to-be-mentally-tough-ace-archer-deepika-kumari", "title":"Sportskeeda interview with Archer Deepika Kumari"}]
 },
 {
   "event": "Archery",
@@ -26,9 +26,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/Laxmirani_Majhi",
   "fb": "https://www.facebook.com/laxmiarchery/",
   "twitter": "",
-  "stories": [{"url":"http://worldarchery.org/athlete/4040/laxmirani-majhi", "title":"World Archery's profile of Laxmirani"}, 
-              {"url":"http://unicef.in/PressReleases/340/Laxmirani-Majhi-Archer", "title":"Inspiring press release of Laxmirani"}, 
-              {"url":"http://www.firstpost.com/sports/rio-beckons-deepika-kumari-among-three-member-indian-archery-team-for-olympics-2783932.html", "title":"Rio beckons! Firstpost's article"}]
+  "stories": [{"url":"//worldarchery.org/athlete/4040/laxmirani-majhi", "title":"World Archery's profile of Laxmirani"}, 
+              {"url":"//unicef.in/PressReleases/340/Laxmirani-Majhi-Archer", "title":"Inspiring press release of Laxmirani"}, 
+              {"url":"//www.firstpost.com/sports/rio-beckons-deepika-kumari-among-three-member-indian-archery-team-for-olympics-2783932.html", "title":"Rio beckons! Firstpost's article"}]
 },
 {
   "event": "Archery",
@@ -41,8 +41,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Bombayla_Devi_Laishram",
   "fb": "https://www.facebook.com/Laishram-Bombayla-Devi-124902190987756/",
   "twitter": "",
-  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/indian-women-team-in-archery-world-cup-final-2776431/", "title":"India women’s team stun Germany, enter Archery World Cup final"}, 
-              {"url":"http://worldarchery.org/athlete/6127/bombayla-devi-laishram", "title":"World Archery's profile of Bombayla"}]
+  "stories": [{"url":"//indianexpress.com/article/sports/sport-others/indian-women-team-in-archery-world-cup-final-2776431/", "title":"India women’s team stun Germany, enter Archery World Cup final"}, 
+              {"url":"//worldarchery.org/athlete/6127/bombayla-devi-laishram", "title":"World Archery's profile of Bombayla"}]
 },
 {
   "event": "Archery",
@@ -56,7 +56,7 @@
   "fb": "https://www.facebook.com/public/Atanu-Das",
   "twitter": "",
   "stories": [{"url":"https://worldarchery.org/athlete/7295/atanu-das","title":"World Archery's profile of Atanu"}, 
-              {"url":"http://www.thehindu.com/sport/other-sports/archery-association-of-india-selects-atanu-das-for-rio-olympics-in-mens-recurve-event/article8775761.ece","title":"AAI selects Atanu Das for Rio Olympics"}]
+              {"url":"//www.thehindu.com/sport/other-sports/archery-association-of-india-selects-atanu-das-for-rio-olympics-in-mens-recurve-event/article8775761.ece","title":"AAI selects Atanu Das for Rio Olympics"}]
 },
 {
   "event": "Athletics",
@@ -70,8 +70,8 @@
   "wikilink": "",
   "fb": "https://www.facebook.com/nitinrawat2012",
   "twitter": "https://twitter.com/nrawatsingh",
-  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/rawats-journey-from-guarding-border-to-running-marathons/","title":"Nitendra Singh Rawat’s journey, from guarding border to running marathons"}, 
-              {"url":"http://www.asianage.com/other-sports/nitendra-singh-rawat-raring-go-rio-399","title":"Nitendra Singh Rawat is raring to go in Rio"}]
+  "stories": [{"url":"//indianexpress.com/article/sports/sport-others/rawats-journey-from-guarding-border-to-running-marathons/","title":"Nitendra Singh Rawat’s journey, from guarding border to running marathons"}, 
+              {"url":"//www.asianage.com/other-sports/nitendra-singh-rawat-raring-go-rio-399","title":"Nitendra Singh Rawat is raring to go in Rio"}]
 },
 {
   "event": "Athletics",
@@ -85,9 +85,9 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/kheta-ram-sets-meet-record-in-5000m-to-qualify-for-asian-games/","title":"Kheta Ram sets meet record in 5000m to qualify for Asian Games"}, 
-              {"url":"http://www.all-athletics.com/node/354689","title":"Complete Athletic profile of Kheta Ram"}, 
-              {"url":"http://timesofindia.indiatimes.com/sports/more-sports/others/Gopi-Kheta-Ram-qualify-for-Olympics-Rawat-sets-course-record/articleshow/50614115.cms","title":"Gopi, Kheta Ram qualify for Olympics; Rawat sets course record"}]
+  "stories": [{"url":"//indianexpress.com/article/sports/sport-others/kheta-ram-sets-meet-record-in-5000m-to-qualify-for-asian-games/","title":"Kheta Ram sets meet record in 5000m to qualify for Asian Games"}, 
+              {"url":"//www.all-athletics.com/node/354689","title":"Complete Athletic profile of Kheta Ram"}, 
+              {"url":"//timesofindia.indiatimes.com/sports/more-sports/others/Gopi-Kheta-Ram-qualify-for-Olympics-Rawat-sets-course-record/articleshow/50614115.cms","title":"Gopi, Kheta Ram qualify for Olympics; Rawat sets course record"}]
 },
 {
   "event": "Athletics",
@@ -101,9 +101,9 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.asianage.com/other-sports/gopi-t-kheta-ram-seal-rio-berths-213","title":"Gopi T, Kheta Ram seal Rio berths"}, 
-              {"url":"http://www.all-athletics.com/node/987564","title":"Complete Athletic profile of Gopi"}, 
-              {"url":"http://timesofindia.indiatimes.com/sports/more-sports/others/Gopi-Kheta-Ram-qualify-for-Olympics-Rawat-sets-course-record/articleshow/50614115.cms","title":"Gopi, Kheta Ram qualify for Olympics; Rawat sets course record"}]
+  "stories": [{"url":"//www.asianage.com/other-sports/gopi-t-kheta-ram-seal-rio-berths-213","title":"Gopi T, Kheta Ram seal Rio berths"}, 
+              {"url":"//www.all-athletics.com/node/987564","title":"Complete Athletic profile of Gopi"}, 
+              {"url":"//timesofindia.indiatimes.com/sports/more-sports/others/Gopi-Kheta-Ram-qualify-for-Olympics-Rawat-sets-course-record/articleshow/50614115.cms","title":"Gopi, Kheta Ram qualify for Olympics; Rawat sets course record"}]
 },
 {
   "event": "Athletics",
@@ -131,8 +131,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Sandeep_Kumar_(athlete)",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.walkforhealth.in/sandeep-kumar.aspx","title":"Walk for health article on Sandeep"}, 
-              {"url":"http://indianexpress.com/article/cities/pune/four-racewalkers-from-asi-qualify-for-rio-olympics/","title":"Four racewalkers from ASI qualify for Rio Olympics"}]
+  "stories": [{"url":"//www.walkforhealth.in/sandeep-kumar.aspx","title":"Walk for health article on Sandeep"}, 
+              {"url":"//indianexpress.com/article/cities/pune/four-racewalkers-from-asi-qualify-for-rio-olympics/","title":"Four racewalkers from ASI qualify for Rio Olympics"}]
 },
 {
   "event": "Athletics",
@@ -146,7 +146,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Baljinder_Singh",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/baljinder-singh-264557","title":"IAAF profile of Baljinder"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/baljinder-singh-264557","title":"IAAF profile of Baljinder"}]
 },
 {
   "event": "Athletics",
@@ -160,7 +160,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Gurmeet_Singh",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://timesofindia.indiatimes.com/sports/more-sports/athletics/Gurmeet-Singh-becomes-first-Indian-to-win-Asian-20km-Race-Walk-Championships/articleshow/51482752.cms","title":"Gurmeet Singh becomes first Indian to win Asian 20km Race Walk Championships"}]
+  "stories": [{"url":"//timesofindia.indiatimes.com/sports/more-sports/athletics/Gurmeet-Singh-becomes-first-Indian-to-win-Asian-20km-Race-Walk-Championships/articleshow/51482752.cms","title":"Gurmeet Singh becomes first Indian to win Asian 20km Race Walk Championships"}]
 },
 {
   "event": "Athletics",
@@ -175,8 +175,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-    {"url":"http://www.iaaf.org/athletes/india/irfan-kolothum-thodi-272582","title":"IAAF profile of Irfan"}, 
-    {"url":"http://www.sportskeeda.com/player/irfan-kolothum-thodi","title":"Sportskeeda Irfan articles"}]
+    {"url":"//www.iaaf.org/athletes/india/irfan-kolothum-thodi-272582","title":"IAAF profile of Irfan"}, 
+    {"url":"//www.sportskeeda.com/player/irfan-kolothum-thodi","title":"Sportskeeda Irfan articles"}]
 },
 {
   "event": "Athletics",
@@ -190,9 +190,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/Inderjeet_Singh",
   "fb": "",
   "twitter": "https://twitter.com/inderjeetshput",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/inderjeet-singh-284534","title":"IAAF athlete profile of Inderjeet"}, 
-              {"url":"http://www.thehindu.com/todays-paper/tp-in-school/inderjeet-grabs-shot-put-silver/article4896222.ece","title":"Inderjeet grabs shot put silver"}, 
-              {"url":"http://www.sportskeeda.com/athletics/interview-inderjeet-singh-indian-atheltics-league-should-started-soon","title":"Interview with Inderjeet Singh: 'An Indian Athletics League should be started soon'"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/inderjeet-singh-284534","title":"IAAF athlete profile of Inderjeet"}, 
+              {"url":"//www.thehindu.com/todays-paper/tp-in-school/inderjeet-grabs-shot-put-silver/article4896222.ece","title":"Inderjeet grabs shot put silver"}, 
+              {"url":"//www.sportskeeda.com/athletics/interview-inderjeet-singh-indian-atheltics-league-should-started-soon","title":"Interview with Inderjeet Singh: 'An Indian Athletics League should be started soon'"}]
 },
 {
   "event": "Athletics",
@@ -206,8 +206,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Vikas_Gowda",
   "fb": "https://www.facebook.com/Vikas-Gowda-394311327299093/",
   "twitter": "https://twitter.com/vikgo70",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/vikas-gowda-189859","title":"IAAF profile of Vikas Gowda"}, 
-              {"url":"http://www.sportskeeda.com/athletics/interview-vikas-gowda-discus-throw-india","title":"Interview with Vikas Gowda, India's champion discus thrower"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/vikas-gowda-189859","title":"IAAF profile of Vikas Gowda"}, 
+              {"url":"//www.sportskeeda.com/athletics/interview-vikas-gowda-discus-throw-india","title":"Interview with Vikas Gowda, India's champion discus thrower"}]
 },
 {
   "event": "Athletics",
@@ -221,9 +221,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/Tintu_Lukka",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/tintu-lukka-239393","title":"IAAF profile of Tintu Luka"}, 
-              {"url":"http://www.sportskeeda.com/athletics/10-facts-tintu-luka","title":"10 things you need to know about Tintu Luka"}, 
-              {"url":"http://sports.ndtv.com/olympics-2012/features/194938-tintu-luka-from-the-backwaters-of-kerala-to-the-olympic-racetrack","title":"Tintu Luka: From remote Kerala village to Olympic semi-final in London"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/tintu-lukka-239393","title":"IAAF profile of Tintu Luka"}, 
+              {"url":"//www.sportskeeda.com/athletics/10-facts-tintu-luka","title":"10 things you need to know about Tintu Luka"}, 
+              {"url":"//sports.ndtv.com/olympics-2012/features/194938-tintu-luka-from-the-backwaters-of-kerala-to-the-olympic-racetrack","title":"Tintu Luka: From remote Kerala village to Olympic semi-final in London"}]
 },
 {
   "event": "Athletics",
@@ -237,8 +237,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Lalita_Babar",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/lalita-shivaji-babar-251941","title":"IAAF profile of Lalita Babar"},
-              {"url":"http://www.thehindu.com/sport/other-sports/provide-best-facilities-well-win-medals-lalita-babar/article8034395.ece","title":"Provide best facilities, we’ll win medals: Lalita Babar"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/lalita-shivaji-babar-251941","title":"IAAF profile of Lalita Babar"},
+              {"url":"//www.thehindu.com/sport/other-sports/provide-best-facilities-well-win-medals-lalita-babar/article8034395.ece","title":"Provide best facilities, we’ll win medals: Lalita Babar"}]
 },
 {
   "event": "Athletics",
@@ -252,9 +252,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/Khushbir_Kaur",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/khushbir-kaur-258615","title":"IAAF profile of Khushbir Kaur"},
-              {"url":"http://essentiallysports.com/walk-line-khushbir-kaur/","title":"Walk The Line With Khushbir Kaur"}, 
-              {"url":"http://sports.ndtv.com/athletics/news/212303-world-athletics-championships-khushbir-kaur-finishes-39th-in-20km-walk-betters-national-record","title":"World Athletics Championships: Khushbir Kaur finishes 39th in 20km walk, betters national record"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/khushbir-kaur-258615","title":"IAAF profile of Khushbir Kaur"},
+              {"url":"//essentiallysports.com/walk-line-khushbir-kaur/","title":"Walk The Line With Khushbir Kaur"}, 
+              {"url":"//sports.ndtv.com/athletics/news/212303-world-athletics-championships-khushbir-kaur-finishes-39th-in-20km-walk-betters-national-record","title":"World Athletics Championships: Khushbir Kaur finishes 39th in 20km walk, betters national record"}]
 },
 {
   "event": "Athletics",
@@ -268,7 +268,7 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://indiatoday.intoday.in/story/boosted-by-rio-ticket-sapna-punia-eyes-better-timing/1/559230.html","title":"Boosted by Rio ticket Sapna Punia eyes better timing"}]
+  "stories": [{"url":"//indiatoday.intoday.in/story/boosted-by-rio-ticket-sapna-punia-eyes-better-timing/1/559230.html","title":"Boosted by Rio ticket Sapna Punia eyes better timing"}]
 },
 {
   "event": "Athletics",
@@ -282,9 +282,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/Kavita_Raut",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/kavita-raut-223876","title":"IAAF profile of Kavita Raut"}, 
-              {"url":"http://www.thehindu.com/sport/athletics/article46543.ece","title":"Kavita Raut picks up a bronze in 5000m"}, 
-              {"url":"http://www.thebetterindia.com/46106/kavita-raut-rio-olympics/","title":"6 Things to Know About Kavita Raut, the Marathoner"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/kavita-raut-223876","title":"IAAF profile of Kavita Raut"}, 
+              {"url":"//www.thehindu.com/sport/athletics/article46543.ece","title":"Kavita Raut picks up a bronze in 5000m"}, 
+              {"url":"//www.thebetterindia.com/46106/kavita-raut-rio-olympics/","title":"6 Things to Know About Kavita Raut, the Marathoner"}]
 },
 {
   "event": "Athletics",
@@ -298,9 +298,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/Sudha_Singh",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/sudha-singh-238193","title":"IAAF profile of Sudha Singh"}, 
-              {"url":"http://timesofindia.indiatimes.com/sports/tournaments/london-olympics/Steeplechase-runner-Sudha-bags-Olympic-berth/articleshow/13922387.cms","title":"Steeplechase runner Sudha bags Olympic berth"}, 
-              {"url":"http://indianexpress.com/article/sports/sport-others/sudha-singh-sets-national-record-in-3000m-steeplechase-2801203/","title":"Sudha Singh sets national record in 3,000m steeplechase"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/sudha-singh-238193","title":"IAAF profile of Sudha Singh"}, 
+              {"url":"//timesofindia.indiatimes.com/sports/tournaments/london-olympics/Steeplechase-runner-Sudha-bags-Olympic-berth/articleshow/13922387.cms","title":"Steeplechase runner Sudha bags Olympic berth"}, 
+              {"url":"//indianexpress.com/article/sports/sport-others/sudha-singh-sets-national-record-in-3000m-steeplechase-2801203/","title":"Sudha Singh sets national record in 3,000m steeplechase"}]
 },
 {
   "event": "Athletics",
@@ -314,9 +314,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/O._P._Jaisha",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/jaisha-orchatteri-211097","title":"IAAF profile of O.P.Jaisha"}, 
-              {"url":"http://zeenews.india.com/sports/others/op-jaisha-sets-new-national-record-at-world-athletics-championships_1664754.html","title":"OP Jaisha sets new marathon national record at World Athletics Championships, ensures 2016 Rio Olympics spot"}, 
-              {"url":"http://www.asianage.com/other-sports/national-record-gift-india-282","title":"National record a gift for India"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/jaisha-orchatteri-211097","title":"IAAF profile of O.P.Jaisha"}, 
+              {"url":"//zeenews.india.com/sports/others/op-jaisha-sets-new-national-record-at-world-athletics-championships_1664754.html","title":"OP Jaisha sets new marathon national record at World Athletics Championships, ensures 2016 Rio Olympics spot"}, 
+              {"url":"//www.asianage.com/other-sports/national-record-gift-india-282","title":"National record a gift for India"}]
 },
 {
   "event": "Athletics",
@@ -330,9 +330,9 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/manpreet-kaur-228546","title":"IAAF profile of Manpreet Kaur"}, 
-              {"url":"http://www.thehindu.com/sport/other-sports/maiden-national-title-for-manpreet-kaur/article4295416.ece","title":"Maiden National title for Manpreet Kaur"}, 
-              {"url":"http://indianexpress.com/article/sports/sport-others/manpreet-breaks-national-record-bags-rio-berth/","title":"Manpreet Kaur breaks national record, bags Rio berth"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/manpreet-kaur-228546","title":"IAAF profile of Manpreet Kaur"}, 
+              {"url":"//www.thehindu.com/sport/other-sports/maiden-national-title-for-manpreet-kaur/article4295416.ece","title":"Maiden National title for Manpreet Kaur"}, 
+              {"url":"//indianexpress.com/article/sports/sport-others/manpreet-breaks-national-record-bags-rio-berth/","title":"Manpreet Kaur breaks national record, bags Rio berth"}]
 },
 {
   "event": "Athletics",
@@ -346,9 +346,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/Seema_Antil",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.jatland.com/home/Seema_Antil","title":"Jatland - Profile of Seema"}, 
-              {"url":"http://www.iaaf.org/athletes/india/seema-antil-180270","title":"IAAF profile of Seema"}, 
-              {"url":"http://www.hindustantimes.com/other-sports/rio-bound-seema-antil-inderjit-are-shying-away-from-getting-randomly-tested/story-7MZypclQnpCf8HYPgaLF8J.html","title":"Rio-bound Seema Antil, Inderjit are ‘shying away’ from getting randomly tested"}]
+  "stories": [{"url":"//www.jatland.com/home/Seema_Antil","title":"Jatland - Profile of Seema"}, 
+              {"url":"//www.iaaf.org/athletes/india/seema-antil-180270","title":"IAAF profile of Seema"}, 
+              {"url":"//www.hindustantimes.com/other-sports/rio-bound-seema-antil-inderjit-are-shying-away-from-getting-randomly-tested/story-7MZypclQnpCf8HYPgaLF8J.html","title":"Rio-bound Seema Antil, Inderjit are ‘shying away’ from getting randomly tested"}]
 },
 {
   "event": "Athletics",
@@ -362,8 +362,8 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://timesofindia.indiatimes.com/Sports/More-sports/Athletics/Long-jumper-Ankit-Sharma-seals-Rio-berth-Pinhat-village-erupts-in-joy/articleshow/52927395.cms","title":""}, 
-              {"url":"http://www.india.com/sports/long-jumper-ankit-sharma-secures-rio-olympics-berth-1288989/","title":"Long jumper Ankit Sharma secures Rio Olympics berth"}]
+  "stories": [{"url":"//timesofindia.indiatimes.com/Sports/More-sports/Athletics/Long-jumper-Ankit-Sharma-seals-Rio-berth-Pinhat-village-erupts-in-joy/articleshow/52927395.cms","title":""}, 
+              {"url":"//www.india.com/sports/long-jumper-ankit-sharma-secures-rio-olympics-berth-1288989/","title":"Long jumper Ankit Sharma secures Rio Olympics berth"}]
 },
 {
   "event": "Athletics",
@@ -377,8 +377,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Srabani_Nanda",
   "fb": "https://www.facebook.com/srabani.nanda.5",
   "twitter": "",
-  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/south-asian-games-2016-dutee-nanda-sprint-chase-continues/","title":"SAF Games 2016: Dutee Chand and Srabani Nanda give each other the chase"}, 
-              {"url":"http://www.sportskeeda.com/athletics/srabani-nanda-the-express-from-odisha","title":"Srabani Nanda - The Express from Odisha"}]
+  "stories": [{"url":"//indianexpress.com/article/sports/sport-others/south-asian-games-2016-dutee-nanda-sprint-chase-continues/","title":"SAF Games 2016: Dutee Chand and Srabani Nanda give each other the chase"}, 
+              {"url":"//www.sportskeeda.com/athletics/srabani-nanda-the-express-from-odisha","title":"Srabani Nanda - The Express from Odisha"}]
 },
 {
   "event": "Athletics",
@@ -392,8 +392,8 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://english.manoramaonline.com/news/just-in/keralite-athlete-mohammad-anas-qualifies-rio-olympics-men-400m-race.html?utm_source=dlvr.it&utm_medium=gplus","title":""}, 
-              {"url":"http://indiatoday.intoday.in/story/mohammad-anas-rio-olympics-2016-dutee-chand/1/701146.html","title":""}]
+  "stories": [{"url":"//english.manoramaonline.com/news/just-in/keralite-athlete-mohammad-anas-qualifies-rio-olympics-men-400m-race.html?utm_source=dlvr.it&utm_medium=gplus","title":""}, 
+              {"url":"//indiatoday.intoday.in/story/mohammad-anas-rio-olympics-2016-dutee-chand/1/701146.html","title":""}]
 },
 {
   "event": "Athletics",
@@ -407,7 +407,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Dutee_Chand",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/south-asian-games-2016-dutee-nanda-sprint-chase-continues/","title":"SAF Games 2016: Dutee Chand and Srabani Nanda give each other the chase"}]
+  "stories": [{"url":"//indianexpress.com/article/sports/sport-others/south-asian-games-2016-dutee-nanda-sprint-chase-continues/","title":"SAF Games 2016: Dutee Chand and Srabani Nanda give each other the chase"}]
 },
 {
   "event": "Athletics",
@@ -421,7 +421,7 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.news18.com/news/sports/nirmala-sheoran-qualifies-for-rio-olympics-in-400m-1264690.html","title":"Nirmala Sheoran Qualifies for Rio Olympics in 400m"}]
+  "stories": [{"url":"//www.news18.com/news/sports/nirmala-sheoran-qualifies-for-rio-olympics-in-400m-1264690.html","title":"Nirmala Sheoran Qualifies for Rio Olympics in 400m"}]
 },
 {
   "event": "Athletics",
@@ -435,7 +435,7 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/dharambir-singh-300926", "title":"IAAF profile - Dharambir Singh"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/dharambir-singh-300926", "title":"IAAF profile - Dharambir Singh"}]
 },
 {
   "event": "Athletics",
@@ -449,8 +449,8 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/dharambir-singh-300926", "title":"IAAF profile - Jinson Johnson"},
-              {"url":"http://indianexpress.com/article/sports/rio-2016-olympics/jinson-johnson-dharambir-singh-renjith-maheshwari-qualify-2907621/","title":"Jinson Johnson, Dharambir Singh, Renjith Maheshwari qualify for Rio 2016 Olympics"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/dharambir-singh-300926", "title":"IAAF profile - Jinson Johnson"},
+              {"url":"//indianexpress.com/article/sports/rio-2016-olympics/jinson-johnson-dharambir-singh-renjith-maheshwari-qualify-2907621/","title":"Jinson Johnson, Dharambir Singh, Renjith Maheshwari qualify for Rio 2016 Olympics"}]
 },
 {
   "event": "Athletics",
@@ -464,7 +464,7 @@
   "wikilink": "",
   "fb": "https://www.facebook.com/Mohammed-Kunhi-Coach-Indian-Athletic-Team-307550636104106/",
   "twitter": "",
-  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/asi-athlete-national-record-in-athletics-relay-race-turkey-india-2855502/","title":"2 ASI athletes in relay team which made new record"}]
+  "stories": [{"url":"//indianexpress.com/article/sports/sport-others/asi-athlete-national-record-in-athletics-relay-race-turkey-india-2855502/","title":"2 ASI athletes in relay team which made new record"}]
 },
 {
   "event": "Athletics",
@@ -478,7 +478,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Arokia_Rajiv",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/arokia-rajiv-284913","title":"IAAF profile of Rajiv"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/arokia-rajiv-284913","title":"IAAF profile of Rajiv"}]
 },
 {
   "event": "Athletics",
@@ -492,8 +492,8 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/ayyasamy-dharun-287771","title":"IAAF profile - Dharun"},
-              {"url":"http://scroll.in/latest/811558/athletics-renjith-maheshwary-dharambir-singh-qualify-for-rio-olympics","title":"Athletics: Renjith Maheshwary, Dharambir Singh qualify for Rio Olympics"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/ayyasamy-dharun-287771","title":"IAAF profile - Dharun"},
+              {"url":"//scroll.in/latest/811558/athletics-renjith-maheshwary-dharambir-singh-qualify-for-rio-olympics","title":"Athletics: Renjith Maheshwary, Dharambir Singh qualify for Rio Olympics"}]
 },
 {
   "event": "Athletics",
@@ -507,8 +507,8 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.iaaf.org/athletes/india/renjith-maheswary-202522","title":"IAAF profile - Renjith"}, 
-              {"url":"http://www.sportskeeda.com/athletics/rio-olympics-2016-renjith-maheshwary-records-the-third-best-jump-world-year","title":"Rio Olympics 2016: Renjith Maheshwary records world's third best jump this year"}]
+  "stories": [{"url":"//www.iaaf.org/athletes/india/renjith-maheswary-202522","title":"IAAF profile - Renjith"}, 
+              {"url":"//www.sportskeeda.com/athletics/rio-olympics-2016-renjith-maheshwary-records-the-third-best-jump-world-year","title":"Rio Olympics 2016: Renjith Maheshwary records world's third best jump this year"}]
 },
 {
   "event": "Athletics",
@@ -522,7 +522,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/M._R._Poovamma",
   "fb": "https://www.facebook.com/MR-Poovamma-617151514995569/",
   "twitter": "",
-  "stories": [{"url":"http://indianexpress.com/tag/mr-poovamma/","title":"IAAF profile - Poovamma"}]
+  "stories": [{"url":"//indianexpress.com/tag/mr-poovamma/","title":"IAAF profile - Poovamma"}]
 },
 {
   "event": "Athletics",
@@ -536,8 +536,8 @@
   "wikilink": "",
   "fb": "https://www.facebook.com/Anilda-thomas-731918200207132/",
   "twitter": "",
-  "stories": [{"url":"http://www.thehindu.com/todays-paper/tp-sports/anilda-confident-of-a-quartermile-road-to-rio/article8521803.ece","title":"Anilda confident of a quartermile road to Rio"}, 
-              {"url":"http://www.iaaf.org/athletes/india/anilda-thomas-277613","title":"IAAF profile - Anilda Thomas"}]
+  "stories": [{"url":"//www.thehindu.com/todays-paper/tp-sports/anilda-confident-of-a-quartermile-road-to-rio/article8521803.ece","title":"Anilda confident of a quartermile road to Rio"}, 
+              {"url":"//www.iaaf.org/athletes/india/anilda-thomas-277613","title":"IAAF profile - Anilda Thomas"}]
 },
 {
   "event": "Athletics",
@@ -551,8 +551,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Ashwini_Akkunji",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.firstpost.com/tag/ashwini-akkunji","title":"#Ashwini Akkunji - Firstpost"}, 
-              {"url":"http://www.mangalorean.com/udupi-athlete-ashwini-akkunji-engaged-to-software-professional-abhijith-rai/","title":"Ashwini Akkunji engaged to software professional"}]
+  "stories": [{"url":"//www.firstpost.com/tag/ashwini-akkunji","title":"#Ashwini Akkunji - Firstpost"}, 
+              {"url":"//www.mangalorean.com/udupi-athlete-ashwini-akkunji-engaged-to-software-professional-abhijith-rai/","title":"Ashwini Akkunji engaged to software professional"}]
 },
 {
   "event": "Athletics",
@@ -566,7 +566,7 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.thehindu.com/todays-paper/tp-sports/debashree-sets-days-lone-record/article242114.ece","title":"Debashree sets day’s lone record"}]
+  "stories": [{"url":"//www.thehindu.com/todays-paper/tp-sports/debashree-sets-days-lone-record/article242114.ece","title":"Debashree sets day’s lone record"}]
 },
 {
   "event": "Athletics",
@@ -594,9 +594,9 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.thehindu.com/todays-paper/tp-sports/jisna-mathew-another-star-rises-from-ushas-stable/article7199922.ece","title":"Jisna Mathew — Another star rises from Usha’s stable"}, 
-              {"url":"http://indianexpress.com/article/sports/sport-others/running-with-the-best-16-year-old-jisna-holds-her-own/","title":"Running with the best, 16-year-old Jisna Mathew holds her own"},
-              {"url":"http://english.manoramaonline.com/sports/other-sports/state-school-meet-jisna-mathew-one-to-watch-out-for-mercy-kuttan.html","title":"'Jisna Mathew is a sprinter to watch out for'"}]
+  "stories": [{"url":"//www.thehindu.com/todays-paper/tp-sports/jisna-mathew-another-star-rises-from-ushas-stable/article7199922.ece","title":"Jisna Mathew — Another star rises from Usha’s stable"}, 
+              {"url":"//indianexpress.com/article/sports/sport-others/running-with-the-best-16-year-old-jisna-holds-her-own/","title":"Running with the best, 16-year-old Jisna Mathew holds her own"},
+              {"url":"//english.manoramaonline.com/sports/other-sports/state-school-meet-jisna-mathew-one-to-watch-out-for-mercy-kuttan.html","title":"'Jisna Mathew is a sprinter to watch out for'"}]
 },
 {
   "event": "Athletics",
@@ -625,7 +625,7 @@
   "wikilink": "",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/jithin-paul-causes-upset-in-federation-cup-athletics-prem-kumar-disappoints/","title":"Jithin Paul causes upset in Federation Cup Athletics; Prem Kumar disappoints"}]
+  "stories": [{"url":"//indianexpress.com/article/sports/sport-others/jithin-paul-causes-upset-in-federation-cup-athletics-prem-kumar-disappoints/","title":"Jithin Paul causes upset in Federation Cup Athletics; Prem Kumar disappoints"}]
 },
 {
   "event": "Athletics",
@@ -654,7 +654,7 @@
   "fb": "https://www.facebook.com/GSFKidambiSrikanth",
   "twitter": "https://twitter.com/srikidambi",
   "stories": [
-  {"url":"http://sports.ndtv.com/olympics-2016/news/255746-kidambi-srikanth-hopes-his-consistency-and-hard-work-pay-off-at-rio-olympics","title":"Kidambi Srikanth hopes his consistency and hard work pay off at Rio Olympics"}
+  {"url":"//sports.ndtv.com/olympics-2016/news/255746-kidambi-srikanth-hopes-his-consistency-and-hard-work-pay-off-at-rio-olympics","title":"Kidambi Srikanth hopes his consistency and hard work pay off at Rio Olympics"}
   ]
 },
 {
@@ -670,7 +670,7 @@
   "twitter": "https://twitter.com/atrimanu",
   "stories": [
   {"url":"https://www.youtube.com/watch?v=ffzDoI1SsMA","title":"Youtube: Manu Attri Interview - Badminton star from Meerut"}, 
-  {"url":"http://www.firstpost.com/sports/first-doubles-triumph-manu-attri-and-sumeeth-reddy-clinch-mexico-open-grand-prix-2555824.html","title":"First doubles triumph: Manu Attri and Sumeeth Reddy clinch Mexico Open Grand Prix"}
+  {"url":"//www.firstpost.com/sports/first-doubles-triumph-manu-attri-and-sumeeth-reddy-clinch-mexico-open-grand-prix-2555824.html","title":"First doubles triumph: Manu Attri and Sumeeth Reddy clinch Mexico Open Grand Prix"}
   ]
 },
 {
@@ -684,7 +684,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/B._Sumeeth_Reddy",
   "fb": "https://www.facebook.com/sumeeth.reddy",
   "twitter": "https://twitter.com/buss_reddy",
-  "stories": [{"url":"http://www.thehindu.com/sport/badmintons-promising-stars/article7659248.ece","title":"Sumeeth Reddy and Manu Attri are emerging as the new talent in badminton"}]
+  "stories": [{"url":"//www.thehindu.com/sport/badmintons-promising-stars/article7659248.ece","title":"Sumeeth Reddy and Manu Attri are emerging as the new talent in badminton"}]
 },
 {
   "event": "Badminton",
@@ -698,9 +698,9 @@
   "fb": "https://www.facebook.com/SainaNehwal.OGQ/",
   "twitter": "https://twitter.com/NSaina",
   "stories": [
-  {"url":"http://www.hindustantimes.com/other-sports/sania-mirza-saina-nehwal-awarded-the-padma-bhushan/story-j9PdYDLCOHcNPldEdWtV1N.html","title":"Sania Mirza, Saina Nehwal awarded the Padma Bhushan"}, 
-  {"url":"http://timesofindia.indiatimes.com/sports/badminton/Saina-Nehwal-dedicates-Padma-Bhushan-award-to-coach-Vimal/articleshow/50721504.cms","title":"Saina Nehwal dedicates Padma Bhushan award to coach Vimal"}, 
-  {"url":"http://www.mapsofindia.com/who-is-who/sports/saina-nehwal.html","title":"Saina Nehwal Biography"}]
+  {"url":"//www.hindustantimes.com/other-sports/sania-mirza-saina-nehwal-awarded-the-padma-bhushan/story-j9PdYDLCOHcNPldEdWtV1N.html","title":"Sania Mirza, Saina Nehwal awarded the Padma Bhushan"}, 
+  {"url":"//timesofindia.indiatimes.com/sports/badminton/Saina-Nehwal-dedicates-Padma-Bhushan-award-to-coach-Vimal/articleshow/50721504.cms","title":"Saina Nehwal dedicates Padma Bhushan award to coach Vimal"}, 
+  {"url":"//www.mapsofindia.com/who-is-who/sports/saina-nehwal.html","title":"Saina Nehwal Biography"}]
 },
 {
   "event": "Badminton",
@@ -714,8 +714,8 @@
   "fb": "https://www.facebook.com/PVSindhu.OGQ/",
   "twitter": "https://twitter.com/Pvsindhu1",
   "stories": [
-  {"url":"http://www.mapsofindia.com/who-is-who/sports/p-v-sindhu.html","title":"PV Sindhu Biography"}, 
-  {"url":"http://indianexpress.com/article/sports/badminton/pv-sindhu-ready-to-stoop-conquer-at-rio-2016-olympics-2788184/","title":"PV Sindhu ready to stoop and conquer at Rio Games 2016"}
+  {"url":"//www.mapsofindia.com/who-is-who/sports/p-v-sindhu.html","title":"PV Sindhu Biography"}, 
+  {"url":"//indianexpress.com/article/sports/badminton/pv-sindhu-ready-to-stoop-conquer-at-rio-2016-olympics-2788184/","title":"PV Sindhu ready to stoop and conquer at Rio Games 2016"}
   ]
 },
 {
@@ -730,7 +730,7 @@
   "fb": "https://www.facebook.com/Guttajwala1/",
   "twitter": "https://twitter.com/Guttajwala",
   "stories": [
-  {"url":"http://www.firstpost.com/sports/stop-giving-step-motherly-treatment-to-badminton-doubles-jwala-gutta-2617472.html","title":"Stop giving step-motherly treatment to badminton doubles: Jwala Gutta"}, 
+  {"url":"//www.firstpost.com/sports/stop-giving-step-motherly-treatment-to-badminton-doubles-jwala-gutta-2617472.html","title":"Stop giving step-motherly treatment to badminton doubles: Jwala Gutta"}, 
   {"url":"https://www.instagram.com/jwalagutta1/?hl=en","title":"Jwala Instagram Profile"}]
 },
 {
@@ -758,8 +758,8 @@
   "fb": "https://www.facebook.com/Shiva.Olympic/",
   "twitter": "https://twitter.com/shivathapa",
   "stories": [
-  {"url":"http://www.shivathapaboxer.com/","title":"Shiva Thapa the Boxer's website"}, 
-  {"url":"http://www.aiba.org/shiva-thapa-56kg/","title":"AIBA profile - Shiva Thapa"}]
+  {"url":"//www.shivathapaboxer.com/","title":"Shiva Thapa the Boxer's website"}, 
+  {"url":"//www.aiba.org/shiva-thapa-56kg/","title":"AIBA profile - Shiva Thapa"}]
 },
 {
   "event": "Boxing",
@@ -773,8 +773,8 @@
   "fb": "",
   "twitter": "https://twitter.com/boxermanojkr",
   "stories": [
-  {"url":"http://web.archive.org/web/20160416145148/http://www.thehindu.com/sport/india-boxers-cwg-show-outstanding-international-boxing-association/article834429.ece","title":"India boxers’ CWG show outstanding: International Boxing Association"}, 
-  {"url":"http://www.aiba.org/manoj-kumar-64-kg/","title":"AIBA profile - Manoj Kumar"}
+  {"url":"//web.archive.org/web/20160416145148///www.thehindu.com/sport/india-boxers-cwg-show-outstanding-international-boxing-association/article834429.ece","title":"India boxers’ CWG show outstanding: International Boxing Association"}, 
+  {"url":"//www.aiba.org/manoj-kumar-64-kg/","title":"AIBA profile - Manoj Kumar"}
   ]
 },
 {
@@ -789,9 +789,9 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://www.news18.com/news/sports/i-want-to-do-a-vijender-in-rio-vikas-krishan-1263538.html","title":"I Want to Do a Vijender in Rio: Vikas Krishan"}, 
-  {"url":"http://timesofindia.indiatimes.com/sports/boxing/My-instinct-tells-me-I-will-win-bronze-Vikas-Krishan-Yadav/articleshow/52950251.cms","title":"My instinct tells me I will win bronze: Vikas Krishan Yadav"}, 
-  {"url":"http://www.aiba.org/vikas-krishan-yadav-75kg/","title":"AIBA profile - Vikas"}]
+  {"url":"//www.news18.com/news/sports/i-want-to-do-a-vijender-in-rio-vikas-krishan-1263538.html","title":"I Want to Do a Vijender in Rio: Vikas Krishan"}, 
+  {"url":"//timesofindia.indiatimes.com/sports/boxing/My-instinct-tells-me-I-will-win-bronze-Vikas-Krishan-Yadav/articleshow/52950251.cms","title":"My instinct tells me I will win bronze: Vikas Krishan Yadav"}, 
+  {"url":"//www.aiba.org/vikas-krishan-yadav-75kg/","title":"AIBA profile - Vikas"}]
 },
 {
   "event": "Golf",
@@ -805,8 +805,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Shiv_Chawrasia",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.asiantour.com/players/100417/","title":"Shiv's profile - Asian Tour"}, 
-          {"url":"http://www.thenational.ae/sport/golf/indias-shiv-chawrasia-has-long-sought-indian-open-title-and-olympics-in-his-grasp","title":"India’s Shiv Chawrasia has long-sought Indian Open title, and Olympics, in his grasp"}]
+  "stories": [{"url":"//www.asiantour.com/players/100417/","title":"Shiv's profile - Asian Tour"}, 
+          {"url":"//www.thenational.ae/sport/golf/indias-shiv-chawrasia-has-long-sought-indian-open-title-and-olympics-in-his-grasp","title":"India’s Shiv Chawrasia has long-sought Indian Open title, and Olympics, in his grasp"}]
 },
 {
   "event": "Golf",
@@ -820,8 +820,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Anirban_Lahiri",
   "fb": "https://www.facebook.com/anirbanlahirigolf/",
   "twitter": "https://twitter.com/anirbangolf?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-  "stories": [{"url":"http://in.sports.yahoo.com/golf/pga/players/10574","title":"Yahoo.com PGA players - Lahiri Profile"}, 
-          {"url":"http://www.pgatour.com/players/player.31420.html","title":"PGA tour player profile - Lahiri"}]
+  "stories": [{"url":"//in.sports.yahoo.com/golf/pga/players/10574","title":"Yahoo.com PGA players - Lahiri Profile"}, 
+          {"url":"//www.pgatour.com/players/player.31420.html","title":"PGA tour player profile - Lahiri"}]
 },
 {
   "event": "Golf",
@@ -835,8 +835,8 @@
   "wikilink": "",
   "fb": "",
   "twitter": "https://twitter.com/aditigolf",
-  "stories": [{"url":"http://www.aditiashok.com/","title":"Aditi Ashok's website"}, 
-          {"url":"http://golfingindian.com/feature-rise-aditi-ashok/","title":"Feature: Rise of Aditi Ashok"}]
+  "stories": [{"url":"//www.aditiashok.com/","title":"Aditi Ashok's website"}, 
+          {"url":"//golfingindian.com/feature-rise-aditi-ashok/","title":"Feature: Rise of Aditi Ashok"}]
 },
 {
   "event": "Gymnastics",
@@ -850,9 +850,9 @@
   "fb": "https://www.facebook.com/dipa.karmakar.18",
   "twitter": "https://twitter.com/dipakarmakar",
   "stories": [
-  {"url":"http://www.thehindu.com/sport/other-sports/rio-olympics-2016-dipa-karmakar-first-indian-woman-gymnast-to-seal-olympic-berth/article8488838.ece","title":"Dipa Karmakar secures Rio ticket"}, 
-  {"url":"http://indianexpress.com/article/sports/sport-others/dipa-karmakar-with-produnova-a-degree-in-difficulty-rio-olympics-2016-2767493/","title":"Dipa Karmakar’s Produnova – A degree in Difficulty"}, 
-  {"url":"http://timesofindia.indiatimes.com/city/guwahati/Tripura-gymnast-Dipa-named-for-Arjuna-award/articleshow/48505700.cms","title":"Tripura gymnast Dipa named for Arjuna award"}]
+  {"url":"//www.thehindu.com/sport/other-sports/rio-olympics-2016-dipa-karmakar-first-indian-woman-gymnast-to-seal-olympic-berth/article8488838.ece","title":"Dipa Karmakar secures Rio ticket"}, 
+  {"url":"//indianexpress.com/article/sports/sport-others/dipa-karmakar-with-produnova-a-degree-in-difficulty-rio-olympics-2016-2767493/","title":"Dipa Karmakar’s Produnova – A degree in Difficulty"}, 
+  {"url":"//timesofindia.indiatimes.com/city/guwahati/Tripura-gymnast-Dipa-named-for-Arjuna-award/articleshow/48505700.cms","title":"Tripura gymnast Dipa named for Arjuna award"}]
 },
 {
   "event": "Hockey",
@@ -867,8 +867,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://indianexpress.com/article/sports/hockey/once-reluctant-player-savita-punia-keeps-india-in-olympic-chase/","title":"Once reluctant player, Savita Punia keeps India in Olympic chase"}, 
-  {"url":"http://hockeyindia.org/team/savita-punia-2.html","title":"Hockey India profile of Savita Punia"}]
+  {"url":"//indianexpress.com/article/sports/hockey/once-reluctant-player-savita-punia-keeps-india-in-olympic-chase/","title":"Once reluctant player, Savita Punia keeps India in Olympic chase"}, 
+  {"url":"//hockeyindia.org/team/savita-punia-2.html","title":"Hockey India profile of Savita Punia"}]
 },
 {
   "event": "Hockey",
@@ -883,8 +883,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://indiatoday.intoday.in/story/upcoming-hockey-player-navjot-kaur/1/460998.html","title":"Navjot Kaur eyes Junior world cup title"},
-  {"url":"http://hockeyindia.org/team/navjot-kaur-sr-2.html","title":"Hockey India profile of Navjot Kaur"}]
+  {"url":"//indiatoday.intoday.in/story/upcoming-hockey-player-navjot-kaur/1/460998.html","title":"Navjot Kaur eyes Junior world cup title"},
+  {"url":"//hockeyindia.org/team/navjot-kaur-sr-2.html","title":"Hockey India profile of Navjot Kaur"}]
 },
 {
   "event": "Hockey",
@@ -899,8 +899,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://zeenews.india.com/sports/sports/hockey/navjot-deep-inderpreet-are-assets-to-the-team-rani-rampal_1664112.html","title":"Navjot, Deep, Inderpreet are assets to the team: Rani Rampal"}, 
-  {"url":"http://www.thehindu.com/sport/hockey/deep-grace-ekka-to-lead-indian-junior-womens-hockey-team/article6555582.ece","title":"Deep Grace Ekka to lead Indian junior women's hockey team"}]
+  {"url":"//zeenews.india.com/sports/sports/hockey/navjot-deep-inderpreet-are-assets-to-the-team-rani-rampal_1664112.html","title":"Navjot, Deep, Inderpreet are assets to the team: Rani Rampal"}, 
+  {"url":"//www.thehindu.com/sport/hockey/deep-grace-ekka-to-lead-indian-junior-womens-hockey-team/article6555582.ece","title":"Deep Grace Ekka to lead Indian junior women's hockey team"}]
 },
 {
   "event": "Hockey",
@@ -915,8 +915,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://indianexpress.com/article/cities/chandigarh/when-bronze-of-womens-hockey-team-shone-the-brightest-here/","title":"When bronze of women’s hockey team shone the brightest here"}, 
-  {"url":"http://archive.indianexpress.com/news/2-girl-graduates-of-local-hockey-academy-feature-in-indian-win/1151636/","title":"2 girl graduates of local hockey academy feature in Indian win"}]
+  {"url":"//indianexpress.com/article/cities/chandigarh/when-bronze-of-womens-hockey-team-shone-the-brightest-here/","title":"When bronze of women’s hockey team shone the brightest here"}, 
+  {"url":"//archive.indianexpress.com/news/2-girl-graduates-of-local-hockey-academy-feature-in-indian-win/1151636/","title":"2 girl graduates of local hockey academy feature in Indian win"}]
 },
 {
   "event": "Hockey",
@@ -931,8 +931,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://www.sportskeeda.com/hockey/we-are-more-confident-now-indian-womens-hockey-team-forward-anuradha-devi-thokchom","title":"We are more confident now: Indian women's hockey team forward Anuradha Devi Thokchom"},
-  {"url":"http://hockeyindia.org/team/anuradha-devi-thokchom-2.html","title":"Hockey India profile of Anuradha Thokchom"}]
+  {"url":"//www.sportskeeda.com/hockey/we-are-more-confident-now-indian-womens-hockey-team-forward-anuradha-devi-thokchom","title":"We are more confident now: Indian women's hockey team forward Anuradha Devi Thokchom"},
+  {"url":"//hockeyindia.org/team/anuradha-devi-thokchom-2.html","title":"Hockey India profile of Anuradha Thokchom"}]
 },
 {
   "event": "Hockey",
@@ -947,8 +947,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://www.sportskeeda.com/video/interview-with-indian-womens-hockey-star-striker-poonam-rani","title":"Interview with Indian women's hockey star striker Poonam Rani"},
-  {"url":"http://hockeyindia.org/team/poonam-rani-2.html","title":"Hockey India profile of Poonam Rani"}]
+  {"url":"//www.sportskeeda.com/video/interview-with-indian-womens-hockey-star-striker-poonam-rani","title":"Interview with Indian women's hockey star striker Poonam Rani"},
+  {"url":"//hockeyindia.org/team/poonam-rani-2.html","title":"Hockey India profile of Poonam Rani"}]
 },
 {
   "event": "Hockey",
@@ -963,8 +963,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://www.sportskeeda.com/hockey/interview-with-vandana-kataria","title":"Interview with Vandana Kataria: Women's hockey needs an HIL for more exposure"},
-  {"url":"http://hockeyindia.org/team/vandana-kataria-2.html","title":"Hockey India profile of Vandana Kataria"}]
+  {"url":"//www.sportskeeda.com/hockey/interview-with-vandana-kataria","title":"Interview with Vandana Kataria: Women's hockey needs an HIL for more exposure"},
+  {"url":"//hockeyindia.org/team/vandana-kataria-2.html","title":"Hockey India profile of Vandana Kataria"}]
 },
 {
   "event": "Hockey",
@@ -979,8 +979,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://indianexpress.com/article/sports/hockey/pr-sreejesh-deepika-win-hockey-india-player-of-the-year-awards/","title":"PR Sreejesh, Deepika win Hockey India Player of the Year awards"}, 
-  {"url":"http://www.thehindu.com/sport/hockey/hockey-india-annual-awards-sreejesh-deepika-walk-away-with-honours/article8399912.ece","title":"Hockey India Annual Awards: Sreejesh, Deepika walk away with honours"}]
+  {"url":"//indianexpress.com/article/sports/hockey/pr-sreejesh-deepika-win-hockey-india-player-of-the-year-awards/","title":"PR Sreejesh, Deepika win Hockey India Player of the Year awards"}, 
+  {"url":"//www.thehindu.com/sport/hockey/hockey-india-annual-awards-sreejesh-deepika-walk-away-with-honours/article8399912.ece","title":"Hockey India Annual Awards: Sreejesh, Deepika walk away with honours"}]
 },
 {
   "event": "Hockey",
@@ -995,7 +995,7 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://www.news18.com/news/hockey/hockey-we-will-play-to-our-strengths-says-namita-toppo-978575.html","title":"Hockey: We will play to our strengths, says Namita Toppo"},{"url":"http://hockeyindia.org/team/namita-toppo-2.html","title":"Hockey India profile of Namita Toppo"}]
+  {"url":"//www.news18.com/news/hockey/hockey-we-will-play-to-our-strengths-says-namita-toppo-978575.html","title":"Hockey: We will play to our strengths, says Namita Toppo"},{"url":"//hockeyindia.org/team/namita-toppo-2.html","title":"Hockey India profile of Namita Toppo"}]
 },
 {
   "event": "Hockey",
@@ -1010,8 +1010,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://hockeyindia.org/team/renuka-yadav-2.html","title":"Hockey India profile of Renuka Yadav"}, 
-  {"url":"http://zeenews.india.com/sports/sports/rio-olympics-2016/inspiring-story-once-a-milk-seller-renuka-yadav-now-part-of-hockey-squad-for-rio-olympics_1906548.html","title":"INSPIRING STORY: Once a milk-seller, Renuka Yadav now part of hockey squad for Rio Olympics"}]
+  {"url":"//hockeyindia.org/team/renuka-yadav-2.html","title":"Hockey India profile of Renuka Yadav"}, 
+  {"url":"//zeenews.india.com/sports/sports/rio-olympics-2016/inspiring-story-once-a-milk-seller-renuka-yadav-now-part-of-hockey-squad-for-rio-olympics_1906548.html","title":"INSPIRING STORY: Once a milk-seller, Renuka Yadav now part of hockey squad for Rio Olympics"}]
 },
 {
   "event": "Hockey",
@@ -1027,7 +1027,7 @@
   "twitter": "",
   "stories": [
   {"url":"https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&cad=rja&uact=8&ved=0ahUKEwj8gJKUjPDNAhWCWRQKHc4jATUQFghIMAs&url=http%3A%2F%2Fhockeyindia.org%2Fnews%2Fsunita-lakra-played-her-50th-international-match-against-new-zealand-yesterday-at-the-hawkes-bay-cup-2015.html&usg=AFQjCNFRuLn9o3HI_y3sPvIyvVMYAUOJuQ&bvm=bv.126993452,d.c2I","title":"50th International cap for Sunita"},
-  {"url":"http://hockeyindia.org/team/sunita-lakra-3.html","title":"Hockey India profile of Sunita Lakra"}]
+  {"url":"//hockeyindia.org/team/sunita-lakra-3.html","title":"Hockey India profile of Sunita Lakra"}]
 },
 {
   "event": "Hockey",
@@ -1042,7 +1042,7 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://www.firstpost.com/sports/rio-2016-sushila-chanu-to-lead-indian-womens-hockey-team-at-olympics-2891176.html","title":"Rio 2016: Sushila Chanu to lead Indian women's hockey team at Olympics"},{"url":"http://hockeyindia.org/team/sushila-chanu-pukhrambam-2.html","title":"Hockey India profile of Sushila Chanu"}]
+  {"url":"//www.firstpost.com/sports/rio-2016-sushila-chanu-to-lead-indian-womens-hockey-team-at-olympics-2891176.html","title":"Rio 2016: Sushila Chanu to lead Indian women's hockey team at Olympics"},{"url":"//hockeyindia.org/team/sushila-chanu-pukhrambam-2.html","title":"Hockey India profile of Sushila Chanu"}]
 },
 {
   "event": "Hockey",
@@ -1057,8 +1057,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://indianexpress.com/article/sports/hockey/ritu-rani-rio-olympics-2016-let-the-girls-play/","title":"Why Rani Rampal, India’s finest forward in women’s hockey, struggles to survive"},
-  {"url":"http://www.fih.ch/news/rani-rampal-inspiring-indian-women-at-shahbad-academy/", "title":"Rani Rampal inspiring Indian women at Shahbad Academy"}]
+  {"url":"//indianexpress.com/article/sports/hockey/ritu-rani-rio-olympics-2016-let-the-girls-play/","title":"Why Rani Rampal, India’s finest forward in women’s hockey, struggles to survive"},
+  {"url":"//www.fih.ch/news/rani-rampal-inspiring-indian-women-at-shahbad-academy/", "title":"Rani Rampal inspiring Indian women at Shahbad Academy"}]
 },
 {
   "event": "Hockey",
@@ -1073,7 +1073,7 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://english.pradesh18.com/news/uttar-pradesh/meet-17-year-old-preeti-dubey-a-hockey-player-who-will-represent-india-in-argentina-839645.html","title":"Meet 17-year-old Preeti Dubey, a hockey player who will represent India in Argentina"}]
+  {"url":"//english.pradesh18.com/news/uttar-pradesh/meet-17-year-old-preeti-dubey-a-hockey-player-who-will-represent-india-in-argentina-839645.html","title":"Meet 17-year-old Preeti Dubey, a hockey player who will represent India in Argentina"}]
 },
 {
   "event": "Hockey",
@@ -1088,7 +1088,7 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://hockeyindia.org/team/lilima-minz-2.html","title":"Hockey India profile of Lilima Minz"}]
+  {"url":"//hockeyindia.org/team/lilima-minz-2.html","title":"Hockey India profile of Lilima Minz"}]
 },
 {
   "event": "Hockey",
@@ -1103,8 +1103,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://timesofindia.indiatimes.com/city/ranchi/Jharkhands-Nikki-Pradhan-in-hockey-team-for-Rio-Olympic/articleshow/53184225.cms","title":"Jharkhand's Nikki Pradhan in hockey team for Rio Olympic"},
-  {"url":"http://www.telegraphindia.com/1160713/jsp/frontpage/story_96450.jsp", "title":"Our girl Nikki makes it to Rio"}]
+  {"url":"//timesofindia.indiatimes.com/city/ranchi/Jharkhands-Nikki-Pradhan-in-hockey-team-for-Rio-Olympic/articleshow/53184225.cms","title":"Jharkhand's Nikki Pradhan in hockey team for Rio Olympic"},
+  {"url":"//www.telegraphindia.com/1160713/jsp/frontpage/story_96450.jsp", "title":"Our girl Nikki makes it to Rio"}]
 },
 {
   "event": "Hockey",
@@ -1118,8 +1118,8 @@
   "fb": "https://www.facebook.com/P.R.Sreejesh/",
   "twitter": "https://twitter.com/16Sreejesh",
   "stories": [
-              {"url":"http://indianexpress.com/tag/pr-sreejesh/","title":"Articles about PR Sreejesh"},
-              {"url":"http://www.thenewsminute.com/article/8-things-know-about-pr-sreejesh-indias-hockey-captain-olympics-46371","title":"8 things to know about PR Sreejesh"}
+              {"url":"//indianexpress.com/tag/pr-sreejesh/","title":"Articles about PR Sreejesh"},
+              {"url":"//www.thenewsminute.com/article/8-things-know-about-pr-sreejesh-indias-hockey-captain-olympics-46371","title":"8 things to know about PR Sreejesh"}
             ]
 },
 {
@@ -1134,7 +1134,7 @@
   "fb": "https://www.facebook.com/public/Harmanpreet-Singh",
   "twitter": "https://twitter.com/harmanp92004941",
   "stories": [
-              {"url":"http://www.sportskeeda.com/hockey/8-things-indian-junior-hockey-star-harmanpreet-singh","title":"8 things to know about Indian hockey star Harmanpreet Singh"}
+              {"url":"//www.sportskeeda.com/hockey/8-things-indian-junior-hockey-star-harmanpreet-singh","title":"8 things to know about Indian hockey star Harmanpreet Singh"}
             ]
 },
 {
@@ -1149,8 +1149,8 @@
   "fb": "https://www.facebook.com/public/Rupinder-Pal-Singh",
   "twitter": "https://twitter.com/rupinderbob3",
   "stories": [
-              {"url":"http://indianexpress.com/tag/rupinder-pal-singh/","title":"Articles about Rupinder Pal Singh"},
-              {"url":"http://www.stick2hockey.com/View-Bio-Data/Rupinder%20Pal%20Singh/60.html","title":"Profile of Rupinder Pal Singh"}
+              {"url":"//indianexpress.com/tag/rupinder-pal-singh/","title":"Articles about Rupinder Pal Singh"},
+              {"url":"//www.stick2hockey.com/View-Bio-Data/Rupinder%20Pal%20Singh/60.html","title":"Profile of Rupinder Pal Singh"}
             ]
 },
 {
@@ -1165,8 +1165,8 @@
   "fb": "https://www.facebook.com/Kothajit-Singh-545512082186501/",
   "twitter": "",
   "stories": [
-              {"url":"http://www.e-pao.net/epSubPageExtractor.asp?src=leisure.Sports.Manipur_Olympic_Dreams_2012_London.Khadangbam_Kothajit_Singh_A_Profile_Manipur_Olympic_Dreams_2012_London","title":"Khadangbam Kothajit Singh - Profile"},
-        {"url":"http://hockeyindia.org/team/khadangbam-kothajit-singh-2.html","title":"Hockey India profile of Kothajit Singh"}
+              {"url":"//www.e-pao.net/epSubPageExtractor.asp?src=leisure.Sports.Manipur_Olympic_Dreams_2012_London.Khadangbam_Kothajit_Singh_A_Profile_Manipur_Olympic_Dreams_2012_London","title":"Khadangbam Kothajit Singh - Profile"},
+        {"url":"//hockeyindia.org/team/khadangbam-kothajit-singh-2.html","title":"Hockey India profile of Kothajit Singh"}
             ]
 },
 {
@@ -1181,8 +1181,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-              {"url":"http://hockeyindia.org/team/surender-kumar-2.html","title":"Hockey India profile of Surendar Kumar"},
-              {"url":"http://www.vishwagujarat.com/tag/surender-kumar/","title":"Articles about Surendar Kumar"}
+              {"url":"//hockeyindia.org/team/surender-kumar-2.html","title":"Hockey India profile of Surendar Kumar"},
+              {"url":"//www.vishwagujarat.com/tag/surender-kumar/","title":"Articles about Surendar Kumar"}
             ]
 },
 {
@@ -1197,8 +1197,8 @@
   "fb": "https://www.facebook.com/CircleofSports.ManpreetSingh/",
   "twitter": "https://twitter.com/manpreetpawar07",
   "stories": [
-              {"url":"http://hockeyindia.org/team/manpreet-singh-2.html","title":"Hockey India profile of Manpreet Singh"},
-              {"url":"http://www.indianhockeynews.com/2015/09/manpreet-singh-indian-hockey-player.html","title":"Manpreet Singh Indian Hockey Player Biography"}
+              {"url":"//hockeyindia.org/team/manpreet-singh-2.html","title":"Hockey India profile of Manpreet Singh"},
+              {"url":"//www.indianhockeynews.com/2015/09/manpreet-singh-indian-hockey-player.html","title":"Manpreet Singh Indian Hockey Player Biography"}
             ]
 },
 {
@@ -1213,8 +1213,8 @@
   "fb": "https://www.facebook.com/SardarSinghHockey/",
   "twitter": "https://twitter.com/8_sardarsingh?lang=en",
   "stories": [
-              {"url":"http://www.thehindu.com/todays-paper/tp-sports/article332395.ece","title":"Sardara Singh strikes form"},
-              {"url":"http://indianexpress.com/article/india/india-news-india/sardar-singh-if-not-for-hockey-i-could-have-been-one-addict-2848094/","title":"If not for hockey, I could have been one (addict)"}
+              {"url":"//www.thehindu.com/todays-paper/tp-sports/article332395.ece","title":"Sardara Singh strikes form"},
+              {"url":"//indianexpress.com/article/india/india-news-india/sardar-singh-if-not-for-hockey-i-could-have-been-one-addict-2848094/","title":"If not for hockey, I could have been one (addict)"}
             ]
 },
 {
@@ -1229,8 +1229,8 @@
 "fb": "",
 "twitter": "https://en.wikipedia.org/wiki/V._R._Raghunath",
 "stories": [
-            {"url":"http://hockeyindia.org/team/raghunath-vokkaliga-ramachandra-2.html","title":"Hockey India profile of Raghunath"},
-      {"url":"http://www.thehindu.com/sport/hockey/hockey-indias-statement-said-ritu-rani-vr-raghunath-recommended-for-arjuna-award/article8584523.ece","title":"Arjuna Award for Raghunath recommended"}
+            {"url":"//hockeyindia.org/team/raghunath-vokkaliga-ramachandra-2.html","title":"Hockey India profile of Raghunath"},
+      {"url":"//www.thehindu.com/sport/hockey/hockey-indias-statement-said-ritu-rani-vr-raghunath-recommended-for-arjuna-award/article8584523.ece","title":"Arjuna Award for Raghunath recommended"}
           ]
 },
 {
@@ -1245,8 +1245,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/S._K._Uthappa",
   "fb": "https://www.facebook.com/Uthappa-SK-383676638347289/",
   "twitter": "https://twitter.com/uthappask",
-  "stories": [{"url":"http://hockeyindia.org/team/uthappa-sannuvanda-kushalappa-2.html","title":"Hockey India profile of Uthappa"},
-  {"url":"http://timesofindia.indiatimes.com/indiario/hockey/Karnataka-quartet-eyes-glory-in-hockey-at-Rio/articleshow/53185224.cms","title":"Karnataka quartet eyes glory in hockey at Rio"}
+  "stories": [{"url":"//hockeyindia.org/team/uthappa-sannuvanda-kushalappa-2.html","title":"Hockey India profile of Uthappa"},
+  {"url":"//timesofindia.indiatimes.com/indiario/hockey/Karnataka-quartet-eyes-glory-in-hockey-at-Rio/articleshow/53185224.cms","title":"Karnataka quartet eyes glory in hockey at Rio"}
   ]
 },
 {
@@ -1261,8 +1261,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Danish_Mujtaba",
   "fb": "https://www.facebook.com/Danish-Mujtaba-684914038232197/",
   "twitter": "",
-  "stories": [{"url":"http://sports.ndtv.com/hockey/news/203090-danish-mujtaba-named-india-captain-for-azlan-shah-meet","title":"Danish Mujtaba named India captain for Azlan Shah meet"}, 
-  {"url":"http://www.sportskeeda.com/hockey/interview-indian-mens-hockey-team-will-bounce-back-says-injured-striker-danish-mujtaba","title":"Interview with injured striker Danish Mujtaba: Indian Men’s Hockey team will bounce back"}]
+  "stories": [{"url":"//sports.ndtv.com/hockey/news/203090-danish-mujtaba-named-india-captain-for-azlan-shah-meet","title":"Danish Mujtaba named India captain for Azlan Shah meet"}, 
+  {"url":"//www.sportskeeda.com/hockey/interview-indian-mens-hockey-team-will-bounce-back-says-injured-striker-danish-mujtaba","title":"Interview with injured striker Danish Mujtaba: Indian Men’s Hockey team will bounce back"}]
 },
 {
   "event": "Hockey",
@@ -1276,8 +1276,8 @@
   "wikilink": "",
   "fb": "",
   "twitter": "https://twitter.com/dwalmiki",
-  "stories": [{"url":"http://indianexpress.com/article/cities/mumbai/gregg-has-unique-way-of-teaching-walmiki/","title":"Gregg has unique way of teaching: Walmiki"},
-  {"url": "http://www.stick2hockey.com/View-Bio-Data/Devinder%20Walmiki/81.html","title":"Devinder walmiki Indian Hockey Player Biography"}]
+  "stories": [{"url":"//indianexpress.com/article/cities/mumbai/gregg-has-unique-way-of-teaching-walmiki/","title":"Gregg has unique way of teaching: Walmiki"},
+  {"url": "//www.stick2hockey.com/View-Bio-Data/Devinder%20Walmiki/81.html","title":"Devinder walmiki Indian Hockey Player Biography"}]
 },
 {
   "event": "Hockey",
@@ -1291,8 +1291,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/S._V._Sunil",
   "fb": "https://www.facebook.com/CircleofSports.SVSunil/",
   "twitter": "https://twitter.com/svsunil24",
-  "stories": [{"url":"http://www.hindustantimes.com/other-sports/indian-hockey-team-have-a-great-chance-in-rio-olympics-sv-sunil/story-z0kVZXZa3aDdV2yeQZrI6O.html","title":"Indian hockey team have a great chance in Rio Olympics: SV Sunil"}, 
-  {"url":"http://indianexpress.com/article/sports/hockey/encounter-against-south-korea-was-a-quarterfinal-for-us-sv-sunil-2853966/","title":"Encounter against South Korea was a quarterfinal for us: SV Sunil"}]
+  "stories": [{"url":"//www.hindustantimes.com/other-sports/indian-hockey-team-have-a-great-chance-in-rio-olympics-sv-sunil/story-z0kVZXZa3aDdV2yeQZrI6O.html","title":"Indian hockey team have a great chance in Rio Olympics: SV Sunil"}, 
+  {"url":"//indianexpress.com/article/sports/hockey/encounter-against-south-korea-was-a-quarterfinal-for-us-sv-sunil-2853966/","title":"Encounter against South Korea was a quarterfinal for us: SV Sunil"}]
 },
 {
   "event": "Hockey",
@@ -1306,8 +1306,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Akashdeep_Singh",
   "fb": "https://www.facebook.com/akashdeepsingh27/",
   "twitter": "",
-  "stories": [{"url":"http://www.dnaindia.com/sport/report-hockey-striker-akashdeep-singh-completes-100-international-caps-2230060","title":"Hockey striker akashdeep singh completes 100 international caps"}, 
-  {"url":"http://www.sportskeeda.com/hockey/know-your-indian-olympian-10-things-know-about-akashdeep-singh","title":"Know your Indian Olympian: 10 things to know about Akashdeep Singh"}]
+  "stories": [{"url":"//www.dnaindia.com/sport/report-hockey-striker-akashdeep-singh-completes-100-international-caps-2230060","title":"Hockey striker akashdeep singh completes 100 international caps"}, 
+  {"url":"//www.sportskeeda.com/hockey/know-your-indian-olympian-10-things-know-about-akashdeep-singh","title":"Know your Indian Olympian: 10 things to know about Akashdeep Singh"}]
 },
 {
   "event": "Hockey",
@@ -1321,8 +1321,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Chinglensana_Singh",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://hockeyindia.org/team/chinglensana-singh-kangujam-2.html","title":""},
-{"url":"http://www.stick2hockey.com/Article/New-Face-New-Force--Chinglensana-Singh/10718.html","title":"Chinglensana Singh Indian Hockey Player Biography"}]
+  "stories": [{"url":"//hockeyindia.org/team/chinglensana-singh-kangujam-2.html","title":""},
+{"url":"//www.stick2hockey.com/Article/New-Face-New-Force--Chinglensana-Singh/10718.html","title":"Chinglensana Singh Indian Hockey Player Biography"}]
 },
 {
   "event": "Hockey",
@@ -1336,8 +1336,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Ramandeep_Singh_(field_hockey,_born_1993)",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.sportskeeda.com/hockey/plenty-of-room-for-improvement-ramandeep-singh","title":"Interview with Ramandeep Singh: Indian hockey has plenty of room for improvement"},
- {"url":"http://sports.ndtv.com/hockey/news/217313-ramandeep-singh-becomes-highest-paid-player-in-hockey-india-league","title":"Ramandeep Singh becomes highest-paid player in Hockey India League"}]
+  "stories": [{"url":"//www.sportskeeda.com/hockey/plenty-of-room-for-improvement-ramandeep-singh","title":"Interview with Ramandeep Singh: Indian hockey has plenty of room for improvement"},
+ {"url":"//sports.ndtv.com/hockey/news/217313-ramandeep-singh-becomes-highest-paid-player-in-hockey-india-league","title":"Ramandeep Singh becomes highest-paid player in Hockey India League"}]
 },
 {
   "event": "Hockey",
@@ -1350,8 +1350,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Nikkin_Thimmaiah",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://hockeyindia.org/team/nikin-thimmaiah.html","title":"Nikkin Thimmaiah Indian Hockey Player Biography"},
-              {"url":"http://archives.deccanchronicle.com/130812/sports-other-sports/article/dream-come-true-nikkin-thimmaiah","title":"A dream come true: Nikkin Thimmaiah"}
+  "stories": [{"url":"//hockeyindia.org/team/nikin-thimmaiah.html","title":"Nikkin Thimmaiah Indian Hockey Player Biography"},
+              {"url":"//archives.deccanchronicle.com/130812/sports-other-sports/article/dream-come-true-nikkin-thimmaiah","title":"A dream come true: Nikkin Thimmaiah"}
             ]
 },
 {
@@ -1366,9 +1366,9 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://indiatoday.intoday.in/story/avtar-singh-judo-rio-olympics-india/1/683714.html","title":"Judoka Avtar Singh books Rio Olympics ticket"}, 
-  {"url":"http://indianexpress.com/article/sports/sport-others/where-others-doubted-avtar-singh-backs-himself-wins-olympic-judo-quota-2807759/","title":"Where others doubted Avtar Singh backs himself, wins Rio Olympics 2016 judo quota"}, 
-  {"url":"http://www.sportskeeda.com/judo/no-savings-mortgaged-house-avtar-singh-rio-olympics","title":"No savings, mortgaged house: Avtar Singh had one shot at Rio Olympics, and he took it"}]
+  {"url":"//indiatoday.intoday.in/story/avtar-singh-judo-rio-olympics-india/1/683714.html","title":"Judoka Avtar Singh books Rio Olympics ticket"}, 
+  {"url":"//indianexpress.com/article/sports/sport-others/where-others-doubted-avtar-singh-backs-himself-wins-olympic-judo-quota-2807759/","title":"Where others doubted Avtar Singh backs himself, wins Rio Olympics 2016 judo quota"}, 
+  {"url":"//www.sportskeeda.com/judo/no-savings-mortgaged-house-avtar-singh-rio-olympics","title":"No savings, mortgaged house: Avtar Singh had one shot at Rio Olympics, and he took it"}]
 },
 {
   "event": "Rowing",
@@ -1382,10 +1382,10 @@
   "twitter": "",
   "wikilink": "N/A",
   "stories": [
-  {"url":"http://indianexpress.com/article/sports/sport-others/india-bag-seven-medals-at-asian-rowing-championships/","title":"India bag seven medals at Asian Rowing Championships"}, 
-  {"url":"http://www.firstpost.com/sports/from-being-afraid-of-water-to-india-only-rower-rio-olympics-ten-things-to-know-about-dattu-bhokanal-2750174.html","title":"The Olympian rower who was afraid of water! Ten things to know about Dattu Bhokanal"}, 
-  {"url":"http://www.thehindu.com/sport/other-sports/rio-olympics-2016-qualification-indian-rower-dattu-bhokanal-braves-odds-to-qualify/article8555658.ece","title":"It was a hard row to hoe for him to reach Rio"}, 
-  {"url":"http://www.indiatimes.com/news/india/india-s-rioolympics-rower-dattu-baban-bhokanal-comes-from-a-village-without-water-254076.html","title":"India's #RioOlympics Rower Dattu Baban Bhokanal Comes From A Village Without Water"}]
+  {"url":"//indianexpress.com/article/sports/sport-others/india-bag-seven-medals-at-asian-rowing-championships/","title":"India bag seven medals at Asian Rowing Championships"}, 
+  {"url":"//www.firstpost.com/sports/from-being-afraid-of-water-to-india-only-rower-rio-olympics-ten-things-to-know-about-dattu-bhokanal-2750174.html","title":"The Olympian rower who was afraid of water! Ten things to know about Dattu Bhokanal"}, 
+  {"url":"//www.thehindu.com/sport/other-sports/rio-olympics-2016-qualification-indian-rower-dattu-bhokanal-braves-odds-to-qualify/article8555658.ece","title":"It was a hard row to hoe for him to reach Rio"}, 
+  {"url":"//www.indiatimes.com/news/india/india-s-rioolympics-rower-dattu-baban-bhokanal-comes-from-a-village-without-water-254076.html","title":"India's #RioOlympics Rower Dattu Baban Bhokanal Comes From A Village Without Water"}]
 },
 {
   "event": "Shooting",
@@ -1400,7 +1400,7 @@
   "twitter": "https://twitter.com/abhinav_bindra",
   "stories": [
   {"url":"www.biography.co.in/biography-abhinav-bindra.html","title":"Abhinav Bindra Biography"}, 
-  {"url":"http://www.abhinavbindra.com/foundation.aspx","title":"The Abhinav Bindra Foundation"}]
+  {"url":"//www.abhinavbindra.com/foundation.aspx","title":"The Abhinav Bindra Foundation"}]
 },
 {
   "event": "Shooting",
@@ -1414,7 +1414,7 @@
   "fb": "https://www.facebook.com/gnspf",
   "twitter": "https://twitter.com/gagunnarang?lang=en",
   "stories": [
-  {"url":"http://www.sportsvale.com/resources/3627-Gagan-Narang-Biography-Career-Profile-Ace-Rifle-Shooter-at-London-Olympics.aspx","title":"Gagan Narang Biography and Career Profile: Ace Rifle Shooter at London Olympics 2012"}]
+  {"url":"//www.sportsvale.com/resources/3627-Gagan-Narang-Biography-Career-Profile-Ace-Rifle-Shooter-at-London-Olympics.aspx","title":"Gagan Narang Biography and Career Profile: Ace Rifle Shooter at London Olympics 2012"}]
 },
 {
   "event": "Shooting",
@@ -1428,8 +1428,8 @@
   "fb": "https://www.facebook.com/chain.singh111?fref=ts",
   "twitter": "",
   "stories": [
-  {"url":"http://www.indianshooting.com/fnews/gold-no-6-for-chain-singh-at-south-asian-games/","title":"Gold No. 6 for Chain Singh at South Asian Games"}, 
-  {"url":"http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0504198901","title":"Chain Singh - Portrait of the athlete"}
+  {"url":"//www.indianshooting.com/fnews/gold-no-6-for-chain-singh-at-south-asian-games/","title":"Gold No. 6 for Chain Singh at South Asian Games"}, 
+  {"url":"//www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0504198901","title":"Chain Singh - Portrait of the athlete"}
   ]
 },
 {
@@ -1444,9 +1444,9 @@
   "fb": "https://www.facebook.com/TheGurpreetSinghSandhu/",
   "twitter": "https://twitter.com/GurpreetGK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
   "stories": [
-  {"url":"http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM1912198701","title":"Gurpreet Singh - Portrait of the athlete"}, 
-  {"url":"http://www.sportskeeda.com/shooting/prakash-nanjappa-gurpreet-singh-two-shooter-make-real-difference-rio-2016","title":"Know your Indian Olympians - Prakash Nanjappa and Gurpreet Singh"}, 
-  {"url":"http://indianexpress.com/article/sports/sport-others/gurpreet-singh-becomes-fifth-indian-shooter-to-qualify-for-2016-rio-olympics/","title":"Day after missing out, Gurpreet Singh bags 2016 Rio Olympics quota"}]
+  {"url":"//www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM1912198701","title":"Gurpreet Singh - Portrait of the athlete"}, 
+  {"url":"//www.sportskeeda.com/shooting/prakash-nanjappa-gurpreet-singh-two-shooter-make-real-difference-rio-2016","title":"Know your Indian Olympians - Prakash Nanjappa and Gurpreet Singh"}, 
+  {"url":"//indianexpress.com/article/sports/sport-others/gurpreet-singh-becomes-fifth-indian-shooter-to-qualify-for-2016-rio-olympics/","title":"Day after missing out, Gurpreet Singh bags 2016 Rio Olympics quota"}]
 },
 {
   "event": "Shooting",
@@ -1460,8 +1460,8 @@
   "fb": "https://www.facebook.com/jitu.rai.90857",
   "twitter": "https://twitter.com/jiturai2014",
   "stories": [
-  {"url":"http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM2608198701","title":"Jitu Rai - Portrait of the athlete"}, 
-  {"url":"http://indianexpress.com/article/sports/sport-others/jitu-rai-gold-issf-world-cup-shooting-olympics/","title":"Jitu Rai strikes gold at ISSF World Cup"}]
+  {"url":"//www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM2608198701","title":"Jitu Rai - Portrait of the athlete"}, 
+  {"url":"//indianexpress.com/article/sports/sport-others/jitu-rai-gold-issf-world-cup-shooting-olympics/","title":"Jitu Rai strikes gold at ISSF World Cup"}]
 },
 {
   "event": "Shooting",
@@ -1475,8 +1475,8 @@
   "fb": "https://www.facebook.com/Prakash-Nanjappa-604558993026124/?fref=ts",
   "twitter": "",
   "stories": [
-  {"url":"http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM2902197601","title":"Prakash Nanjappa - Portrait of the athlete"}, 
-  {"url":"http://www.livemint.com/Leisure/h9fMPrsBibb6Tdevcc5hkJ/Prakash-Nanjappa-mental-gymnastics.html","title":"Prakash Nanjappa: mental gymnastics"}]
+  {"url":"//www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM2902197601","title":"Prakash Nanjappa - Portrait of the athlete"}, 
+  {"url":"//www.livemint.com/Leisure/h9fMPrsBibb6Tdevcc5hkJ/Prakash-Nanjappa-mental-gymnastics.html","title":"Prakash Nanjappa: mental gymnastics"}]
 },
 {
   "event": "Shooting",
@@ -1490,7 +1490,7 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0311197601","title":"Manavjit - Portrait of the athlete"}]
+  {"url":"//www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0311197601","title":"Manavjit - Portrait of the athlete"}]
 },
 {
   "event": "Shooting",
@@ -1504,8 +1504,8 @@
   "fb": "https://www.facebook.com/apurvichandelatheshooter/",
   "twitter": "https://twitter.com/apurvichandela",
   "stories": [
-  {"url":"http://timesofindia.indiatimes.com/sports/more-sports/shooting/Best-shooter-Apurvi-Chandela-wins-another-gold-in-Sweden/articleshow/50479999.cms","title":"'Best shooter' Apurvi Chandela wins another gold in Sweden"}, 
-  {"url":"http://www.india.com/top-n/apurvi-chandela-wins-gold-5-things-you-need-to-know-about-the-young-rifle-ace-103613/","title":"Apurvi Chandela wins gold: 5 things you need to know about the young rifle ace"}]
+  {"url":"//timesofindia.indiatimes.com/sports/more-sports/shooting/Best-shooter-Apurvi-Chandela-wins-another-gold-in-Sweden/articleshow/50479999.cms","title":"'Best shooter' Apurvi Chandela wins another gold in Sweden"}, 
+  {"url":"//www.india.com/top-n/apurvi-chandela-wins-gold-5-things-you-need-to-know-about-the-young-rifle-ace-103613/","title":"Apurvi Chandela wins gold: 5 things you need to know about the young rifle ace"}]
 },
 {
   "event": "Shooting",
@@ -1519,8 +1519,8 @@
   "fb": "https://www.facebook.com/ayonika.paul",
   "twitter": "https://twitter.com/ayonikapaul",
   "stories": [
-  {"url":"http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDW2309199201","title":"ISSF profile of Ayonika"}, 
-  {"url":"http://www.femina.in/achievers/in-conversation-with-10m-air-rifle-indian-shooter-ayonika-paul-5120.html","title":"FEMINA - Guns and glory!"}]
+  {"url":"//www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDW2309199201","title":"ISSF profile of Ayonika"}, 
+  {"url":"//www.femina.in/achievers/in-conversation-with-10m-air-rifle-indian-shooter-ayonika-paul-5120.html","title":"FEMINA - Guns and glory!"}]
 },
 {
   "event": "Shooting",
@@ -1534,7 +1534,7 @@
   "fb": "https://www.facebook.com/HeenaShootingOfficial",
   "twitter": "https://twitter.com/heenasidhu10",
   "stories": [
-  {"url":"http://www.firstpost.com/sports/with-gold-medal-in-asian-qualifiers-heena-sidhu-shoots-her-way-to-rio-olympics-2016-2600894.html","title":"Heena Sidhu shoots her way to 2016 Rio Olympics with gold in Asian qualifiers"}
+  {"url":"//www.firstpost.com/sports/with-gold-medal-in-asian-qualifiers-heena-sidhu-shoots-her-way-to-rio-olympics-2016-2600894.html","title":"Heena Sidhu shoots her way to 2016 Rio Olympics with gold in Asian qualifiers"}
   ]
 },
 {
@@ -1549,8 +1549,8 @@
   "fb": "https://www.facebook.com/kynan.chenai",
   "twitter": "https://twitter.com/kynanchenai",
   "stories": [
-  {"url":"http://www.kynanchenai.in/profile.htm","title":"Kynan Chenai profile"}, 
-  {"url":"http://indianexpress.com/article/sports/slim-and-trim-kynan-shoots-down-another-quota/","title":"Slim and trim Kynan Chenai shoots down another Olympic quota"}]
+  {"url":"//www.kynanchenai.in/profile.htm","title":"Kynan Chenai profile"}, 
+  {"url":"//indianexpress.com/article/sports/slim-and-trim-kynan-shoots-down-another-quota/","title":"Slim and trim Kynan Chenai shoots down another Olympic quota"}]
 },
 {
   "event": "Shooting",
@@ -1564,9 +1564,9 @@
   "fb": "",
   "twitter": "https://twitter.com/khanmairajahmad",
   "stories": [
-  {"url":"http://www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0211197501","title":"ISSF profile - Mairaj Ahmed Khan"}, 
-  {"url":"http://indianexpress.com/article/sports/sport-others/mairaj-ahmed-khan-buries-15-years-of-pain-by-clinching-olympic-quota-in-skeet/","title":"Mairaj Ahmed Khan buries 15 years of pain by clinching 2016 Rio Olympic quota in skeet"}, 
-  {"url":"http://www.sportstarlive.com/shooting/skeet-shooter-mairaj-ahmad-khan-better-late-than-never/article7774147.ece","title":"Skeet shooter Mairaj Ahmad Khan: Better late than never"}]
+  {"url":"//www.issf-sports.org/athletes/athlete.ashx?personissfid=SHINDM0211197501","title":"ISSF profile - Mairaj Ahmed Khan"}, 
+  {"url":"//indianexpress.com/article/sports/sport-others/mairaj-ahmed-khan-buries-15-years-of-pain-by-clinching-olympic-quota-in-skeet/","title":"Mairaj Ahmed Khan buries 15 years of pain by clinching 2016 Rio Olympic quota in skeet"}, 
+  {"url":"//www.sportstarlive.com/shooting/skeet-shooter-mairaj-ahmad-khan-better-late-than-never/article7774147.ece","title":"Skeet shooter Mairaj Ahmad Khan: Better late than never"}]
 },
 {
   "event": "Swimming",
@@ -1580,9 +1580,9 @@
   "fb": "https://www.facebook.com/sajanprakash.1993",
   "twitter": "https://twitter.com/swim_sajan",
   "stories": [
-  {"url":"http://aboutswim.com/sajan-prakash-shivani-kataria-chosen-represent-india-rio-olympics-2016/","title":"Sajan Prakash and Shivani Kataria chosen to represent India in Rio Olympics 2016"}, 
-  {"url":"http://swimindia.in/sajan-prakash-sets-new-record-in-national-games-2015","title":"Sajan Prakash Sets New Record in National Games 2015"}, 
-  {"url":"http://www.thehindu.com/sport/other-sports/35th-national-games-sajan-prakash-steals-the-show/article6845631.ece","title":"Sajan Prakash steals the show"}]
+  {"url":"//aboutswim.com/sajan-prakash-shivani-kataria-chosen-represent-india-rio-olympics-2016/","title":"Sajan Prakash and Shivani Kataria chosen to represent India in Rio Olympics 2016"}, 
+  {"url":"//swimindia.in/sajan-prakash-sets-new-record-in-national-games-2015","title":"Sajan Prakash Sets New Record in National Games 2015"}, 
+  {"url":"//www.thehindu.com/sport/other-sports/35th-national-games-sajan-prakash-steals-the-show/article6845631.ece","title":"Sajan Prakash steals the show"}]
 },
 {
   "event": "Swimming",
@@ -1596,8 +1596,8 @@
   "fb": "https://www.facebook.com/Shivani-Kataria-Jai-Hind-436852446496700/",
   "twitter": "",
   "stories": [
-  {"url":"http://www.news18.com/news/sports/swimmers-sajan-prakash-shivani-katariya-get-wild-card-entry-to-rio-1266340.html","title":"Swimmers Sajan Prakash, Shivani Kataria Get Wild-Card Entry to Rio Olympics"},
-  {"url":"http://english.pradesh18.com/news/haryana/south-asian-games-shivani-kataria-returns-home-to-a-grand-welcome-873337.html","title":"South Asian Games: Shivani Kataria returns home to a grand welcome"}]
+  {"url":"//www.news18.com/news/sports/swimmers-sajan-prakash-shivani-katariya-get-wild-card-entry-to-rio-1266340.html","title":"Swimmers Sajan Prakash, Shivani Kataria Get Wild-Card Entry to Rio Olympics"},
+  {"url":"//english.pradesh18.com/news/haryana/south-asian-games-shivani-kataria-returns-home-to-a-grand-welcome-873337.html","title":"South Asian Games: Shivani Kataria returns home to a grand welcome"}]
 },
 {
   "event": "Table Tennis",
@@ -1611,8 +1611,8 @@
   "fb": "https://www.facebook.com/soumyajit.ghosh?ref=br_rs",
   "twitter": "",
   "stories": [
-  {"url":"http://www.ittf.com/_front_page/ittf_full_story1.asp?ID=42161&Competition_ID=2604&","title":"Soumyajit Causes Third Round Surprise, Dents Swedish Hopes"}, 
-  {"url":"http://www.thehindu.com/sport/other-sports/rio-olympics-2016-i-am-in-good-shape-for-rio-says-soumyajit-ghosh/article8594691.ece","title":"I am in good shape for Rio: Soumyajit Ghosh"}
+  {"url":"//www.ittf.com/_front_page/ittf_full_story1.asp?ID=42161&Competition_ID=2604&","title":"Soumyajit Causes Third Round Surprise, Dents Swedish Hopes"}, 
+  {"url":"//www.thehindu.com/sport/other-sports/rio-olympics-2016-i-am-in-good-shape-for-rio-says-soumyajit-ghosh/article8594691.ece","title":"I am in good shape for Rio: Soumyajit Ghosh"}
   ]
 },
 {
@@ -1626,7 +1626,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Sharath_Kamal",
   "fb": "https://www.facebook.com/sharathkamal",
   "twitter": "https://twitter.com/sharathkamal1",
-  "stories": [{"url":"http://www.iloveindia.com/sports/table-tennis/players/achanta-kamal.html","title":"Achanta Sharath Kamal Profile"}]
+  "stories": [{"url":"//www.iloveindia.com/sports/table-tennis/players/achanta-kamal.html","title":"Achanta Sharath Kamal Profile"}]
 },
 {
   "event": "Table Tennis",
@@ -1639,7 +1639,7 @@
   "fb": "https://www.facebook.com/moumadasfanclub/",
   "twitter": "",
   "wikilink": " https://en.wikipedia.org/wiki/Mouma_Das",
-  "stories": [{"url":"http://www.dnaindia.com/sport/report-peter-engel-s-words-inspired-me-mouma-das-2156475","title":"Peter Engel's words inspired me: Mouma Das"}]
+  "stories": [{"url":"//www.dnaindia.com/sport/report-peter-engel-s-words-inspired-me-mouma-das-2156475","title":"Peter Engel's words inspired me: Mouma Das"}]
 },
 {
   "event": "Table Tennis",
@@ -1652,7 +1652,7 @@
   "wikilink": "",
   "fb": "https://www.facebook.com/Manika-Batra-1706062189632894/",
   "twitter": "",
-  "stories": [{"url":"http://www.sportskeeda.com/table-tennis/interview-with-manika-batra-table-tennis-no-1","title":"Interview with Manika Batra: I don’t want to go to Rio Olympics and return without a medal"}]
+  "stories": [{"url":"//www.sportskeeda.com/table-tennis/interview-with-manika-batra-table-tennis-no-1","title":"Interview with Manika Batra: I don’t want to go to Rio Olympics and return without a medal"}]
 },
 {
   "event": "Tennis",
@@ -1665,7 +1665,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Sania_Mirza",
   "fb": "https://www.facebook.com/sania.mirza/",
   "twitter": "https://twitter.com/mirzasania",
-  "stories": [{"url":"http://timesofindia.indiatimes.com/topic/Sania-Mirza","title":"Sania Mirza's articles"}]
+  "stories": [{"url":"//timesofindia.indiatimes.com/topic/Sania-Mirza","title":"Sania Mirza's articles"}]
 },
 {
   "event": "Tennis",
@@ -1678,7 +1678,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Leander_Paes",
   "fb": "https://www.facebook.com/LeanderPaes",
   "twitter": "https://twitter.com/leander",
-  "stories": [{"url":"http://www.thefamouspeople.com/profiles/leander-paes-5343.php","title":"Leander Paes Biography"}]
+  "stories": [{"url":"//www.thefamouspeople.com/profiles/leander-paes-5343.php","title":"Leander Paes Biography"}]
 },
 {
   "event": "Tennis",
@@ -1692,7 +1692,7 @@
   "fb": "https://www.facebook.com/Rohan.Bofors.Bopanna/",
   "twitter": "https://twitter.com/rohanbopanna",
   "stories": [
-  {"url":"http://www.firstpost.com/sports/rohan-bopanna-picks-saketh-myneni-not-leander-paes-as-partner-for-rio-olympics-reports-2826788.html","title":"Rohan Bopanna picks Saketh Myneni, not Leander Paes, as partner for Rio Olympics: Reports"}
+  {"url":"//www.firstpost.com/sports/rohan-bopanna-picks-saketh-myneni-not-leander-paes-as-partner-for-rio-olympics-reports-2826788.html","title":"Rohan Bopanna picks Saketh Myneni, not Leander Paes, as partner for Rio Olympics: Reports"}
   ]
 },
 {
@@ -1706,8 +1706,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Prarthana_Thombare",
   "fb": "https://www.facebook.com/Prarthana-Thombare-163075853758394/",
   "twitter": "",
-  "stories": [{"url":"http://indiatoday.intoday.in/story/asian-games-sania-mirza-tennis-doubles-prarthana-thombare/1/393171.html","title":""}, 
-  {"url":"http://indiatoday.intoday.in/story/ankita-raina-prarthana-thombare-secure-india-2-0-win-over-pakistan-in-fed-cup/1/430342.html","title":"Ankita, Prarthana secure India's 2-0 win over Pakistan in Fed Cup"}]
+  "stories": [{"url":"//indiatoday.intoday.in/story/asian-games-sania-mirza-tennis-doubles-prarthana-thombare/1/393171.html","title":""}, 
+  {"url":"//indiatoday.intoday.in/story/ankita-raina-prarthana-thombare-secure-india-2-0-win-over-pakistan-in-fed-cup/1/430342.html","title":"Ankita, Prarthana secure India's 2-0 win over Pakistan in Fed Cup"}]
 },
 {
   "event": "Weightlifting",
@@ -1735,7 +1735,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Saikhom_Mirabai_Chanu",
   "fb": "https://www.facebook.com/Saikhom-Mirabai-Chanu-255414104666377/",
   "twitter": "",
-  "stories": [{"url":"http://www.manipurpao.com/2016/06/lifter-saikhom-mirabai-chanu-earns-rio.html","title":"Lifter Saikhom Mirabai Chanu earns Rio Olympic berth"}]
+  "stories": [{"url":"//www.manipurpao.com/2016/06/lifter-saikhom-mirabai-chanu-earns-rio.html","title":"Lifter Saikhom Mirabai Chanu earns Rio Olympic berth"}]
 },
 {
   "event": "Wrestling",
@@ -1749,7 +1749,7 @@
   "fb": "https://www.facebook.com/sandeep.tomar.376043",
   "twitter": "",
   "stories": [
-              {"url":"http://timesofindia.indiatimes.com/sports/more-sports/wrestling/Wrestler-Sandeep-Tomar-secures-Olympic-quota-place/articleshow/51966780.cms","title":"Wrestler Sandeep Tomar secures Olympic quota place"}
+              {"url":"//timesofindia.indiatimes.com/sports/more-sports/wrestling/Wrestler-Sandeep-Tomar-secures-Olympic-quota-place/articleshow/51966780.cms","title":"Wrestler Sandeep Tomar secures Olympic quota place"}
             ]
 },
 {
@@ -1764,8 +1764,8 @@
   "fb": "https://www.facebook.com/YogeshwarOfficial",
   "twitter": "https://twitter.com/duttyogi",
   "stories": [
-              {"url":"http://indianexpress.com/article/sports/sport-others/wrestler-yogeshwar-dutt-bags-rio-olympics-quota-in-65kg-category/","title":"Wrestler Yogeshwar Dutt bags Rio Olympics quota in 65kg category"}, 
-              {"url":"http://www.veethi.com/india-people/yogeshwar_dutt-profile-1110-15.htm","title":"Yogeshwar Dutt profile"}
+              {"url":"//indianexpress.com/article/sports/sport-others/wrestler-yogeshwar-dutt-bags-rio-olympics-quota-in-65kg-category/","title":"Wrestler Yogeshwar Dutt bags Rio Olympics quota in 65kg category"}, 
+              {"url":"//www.veethi.com/india-people/yogeshwar_dutt-profile-1110-15.htm","title":"Yogeshwar Dutt profile"}
               ]
 },
 {
@@ -1780,9 +1780,9 @@
   "fb": "https://www.facebook.com/narsinghpanchamyadaaav/",
   "twitter": "",
   "stories": [
-          {"url":"http://www.dnaindia.com/sport/report-rio-2016-a-sneak-peek-into-the-life-of-wrestler-narsingh-pancham-yadav-2212503","title":"http://www.dnaindia.com/sport/report-rio-2016-a-sneak-peek-into-the-life-of-wrestler-narsingh-pancham-yadav-2212503"}, 
-          {"url":"http://sports.ndtv.com/wrestling/news/248494-wrestler-narsingh-pancham-yadav-books-india-s-olympic-place-for-2016-rio-games","title":"http://sports.ndtv.com/wrestling/news/248494-wrestler-narsingh-pancham-yadav-books-india-s-olympic-place-for-2016-rio-games"}, 
-          {"url":"http://www.veethi.com/india-people/narsingh_pancham_yadav-profile-1071-15.htm","title":"Narsingh Pancham Yadav"}
+          {"url":"//www.dnaindia.com/sport/report-rio-2016-a-sneak-peek-into-the-life-of-wrestler-narsingh-pancham-yadav-2212503","title":"//www.dnaindia.com/sport/report-rio-2016-a-sneak-peek-into-the-life-of-wrestler-narsingh-pancham-yadav-2212503"}, 
+          {"url":"//sports.ndtv.com/wrestling/news/248494-wrestler-narsingh-pancham-yadav-books-india-s-olympic-place-for-2016-rio-games","title":"//sports.ndtv.com/wrestling/news/248494-wrestler-narsingh-pancham-yadav-books-india-s-olympic-place-for-2016-rio-games"}, 
+          {"url":"//www.veethi.com/india-people/narsingh_pancham_yadav-profile-1071-15.htm","title":"Narsingh Pancham Yadav"}
           ]
 },
 {
@@ -1797,8 +1797,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-            {"url":"http://www.news18.com/news/other-sports/its-time-indias-greco-roman-wrestlers-win-at-olympics-hardeep-1245032.html","title":"It's Time India's Greco-Roman Wrestlers Win at Olympics: Hardeep"}, 
-            {"url":"http://www.sportskeeda.com/wrestling/hardeep-singhs-feat-big-boost-indian-greco-roman-wrestling","title":"Hardeep Singh's feat – A big boost for Indian greco-roman wrestling"}
+            {"url":"//www.news18.com/news/other-sports/its-time-indias-greco-roman-wrestlers-win-at-olympics-hardeep-1245032.html","title":"It's Time India's Greco-Roman Wrestlers Win at Olympics: Hardeep"}, 
+            {"url":"//www.sportskeeda.com/wrestling/hardeep-singhs-feat-big-boost-indian-greco-roman-wrestling","title":"Hardeep Singh's feat – A big boost for Indian greco-roman wrestling"}
             ]  
 },
 {
@@ -1839,7 +1839,7 @@
   "fb": "",
   "twitter": "",
   "stories": [
-            {"url":"http://www.veethi.com/india-people/babita_kumari-profile-6599-15.htm","title":"Babita Kumari Profile"}
+            {"url":"//www.veethi.com/india-people/babita_kumari-profile-6599-15.htm","title":"Babita Kumari Profile"}
             ]
 },
 {
@@ -1854,8 +1854,8 @@
   "fb": "https://www.facebook.com/sakshi.malik.5",
   "twitter": "",
   "stories": [
-  {"url":"http://www.indiatvnews.com/sports/other-rio-2016-vinesh-phogat-sakshi-malik-seal-olympic-berth-in-women-s-wrestling-327987","title":"Rio 2016: Vinesh Phogat, Sakshi Malik seal Olympic berth in women’s wrestling"}, 
-  {"url":"http://indianexpress.com/article/sports/sport-others/vinesh-phogat-sakshi-malik-create-history-book-two-olympic-spots-in-womens-wrestling-for-india-2789076/","title":"Rio Olympics 2016: For Sakshi Malik, Vinesh Phogat, it’s never too late"}
+  {"url":"//www.indiatvnews.com/sports/other-rio-2016-vinesh-phogat-sakshi-malik-seal-olympic-berth-in-women-s-wrestling-327987","title":"Rio 2016: Vinesh Phogat, Sakshi Malik seal Olympic berth in women’s wrestling"}, 
+  {"url":"//indianexpress.com/article/sports/sport-others/vinesh-phogat-sakshi-malik-create-history-book-two-olympic-spots-in-womens-wrestling-for-india-2789076/","title":"Rio Olympics 2016: For Sakshi Malik, Vinesh Phogat, it’s never too late"}
   ]
 }
 ]

@@ -11,8 +11,8 @@
   "fb": "https://www.facebook.com/soumyajit.ghosh?ref=br_rs",
   "twitter": "",
   "stories": [
-  {"url":"http://www.ittf.com/_front_page/ittf_full_story1.asp?ID=42161&Competition_ID=2604&","title":"Soumyajit Causes Third Round Surprise, Dents Swedish Hopes"}, 
-  {"url":"http://www.thehindu.com/sport/other-sports/rio-olympics-2016-i-am-in-good-shape-for-rio-says-soumyajit-ghosh/article8594691.ece","title":"I am in good shape for Rio: Soumyajit Ghosh"}
+  {"url":"//www.ittf.com/_front_page/ittf_full_story1.asp?ID=42161&Competition_ID=2604&","title":"Soumyajit Causes Third Round Surprise, Dents Swedish Hopes"}, 
+  {"url":"//www.thehindu.com/sport/other-sports/rio-olympics-2016-i-am-in-good-shape-for-rio-says-soumyajit-ghosh/article8594691.ece","title":"I am in good shape for Rio: Soumyajit Ghosh"}
   ]
 },
 {
@@ -26,7 +26,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Sharath_Kamal",
   "fb": "https://www.facebook.com/sharathkamal",
   "twitter": "https://twitter.com/sharathkamal1",
-  "stories": [{"url":"http://www.iloveindia.com/sports/table-tennis/players/achanta-kamal.html","title":"Achanta Sharath Kamal Profile"}]
+  "stories": [{"url":"//www.iloveindia.com/sports/table-tennis/players/achanta-kamal.html","title":"Achanta Sharath Kamal Profile"}]
 },
 {
   "event": "Table Tennis",
@@ -39,7 +39,7 @@
   "fb": "",
   "twitter": "",
   "wikilink": " https://en.wikipedia.org/wiki/Mouma_Das",
-  "stories": [{"url":"http://www.dnaindia.com/sport/report-peter-engel-s-words-inspired-me-mouma-das-2156475","title":"Peter Engel's words inspired me: Mouma Das"}]
+  "stories": [{"url":"//www.dnaindia.com/sport/report-peter-engel-s-words-inspired-me-mouma-das-2156475","title":"Peter Engel's words inspired me: Mouma Das"}]
 },
 {
   "event": "Table Tennis",
@@ -52,6 +52,6 @@
   "wikilink": "",
   "fb": "https://www.facebook.com/Manika-Batra-1706062189632894/",
   "twitter": "",
-  "stories": [{"url":"http://www.sportskeeda.com/table-tennis/interview-with-manika-batra-table-tennis-no-1","title":"Interview with Manika Batra: I don’t want to go to Rio Olympics and return without a medal"}]
+  "stories": [{"url":"//www.sportskeeda.com/table-tennis/interview-with-manika-batra-table-tennis-no-1","title":"Interview with Manika Batra: I don’t want to go to Rio Olympics and return without a medal"}]
 }
 ]

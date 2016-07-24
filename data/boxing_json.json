@@ -11,8 +11,8 @@
   "fb": "https://www.facebook.com/Shiva.Olympic/",
   "twitter": "https://twitter.com/shivathapa",
   "stories": [
-  {"url":"http://www.shivathapaboxer.com/","title":"Shiva Thapa the Boxer's website"}, 
-  {"url":"http://www.aiba.org/shiva-thapa-56kg/","title":"AIBA profile - Shiva Thapa"}]
+  {"url":"//www.shivathapaboxer.com/","title":"Shiva Thapa the Boxer's website"}, 
+  {"url":"//www.aiba.org/shiva-thapa-56kg/","title":"AIBA profile - Shiva Thapa"}]
 },
 {
   "event": "Boxing",
@@ -26,8 +26,8 @@
   "fb": "",
   "twitter": "https://twitter.com/boxermanojkr",
   "stories": [
-  {"url":"http://web.archive.org/web/20160416145148/http://www.thehindu.com/sport/india-boxers-cwg-show-outstanding-international-boxing-association/article834429.ece","title":"India boxers’ CWG show outstanding: International Boxing Association"}, 
-  {"url":"http://www.aiba.org/manoj-kumar-64-kg/","title":"AIBA profile - Manoj Kumar"}
+  {"url":"//web.archive.org/web/20160416145148///www.thehindu.com/sport/india-boxers-cwg-show-outstanding-international-boxing-association/article834429.ece","title":"India boxers’ CWG show outstanding: International Boxing Association"}, 
+  {"url":"//www.aiba.org/manoj-kumar-64-kg/","title":"AIBA profile - Manoj Kumar"}
   ]
 },
 {
@@ -42,8 +42,8 @@
   "fb": "",
   "twitter": "",
   "stories": [
-  {"url":"http://www.news18.com/news/sports/i-want-to-do-a-vijender-in-rio-vikas-krishan-1263538.html","title":"I Want to Do a Vijender in Rio: Vikas Krishan"}, 
-  {"url":"http://timesofindia.indiatimes.com/sports/boxing/My-instinct-tells-me-I-will-win-bronze-Vikas-Krishan-Yadav/articleshow/52950251.cms","title":"My instinct tells me I will win bronze: Vikas Krishan Yadav"}, 
-  {"url":"http://www.aiba.org/vikas-krishan-yadav-75kg/","title":"AIBA profile - Vikas"}]
+  {"url":"//www.news18.com/news/sports/i-want-to-do-a-vijender-in-rio-vikas-krishan-1263538.html","title":"I Want to Do a Vijender in Rio: Vikas Krishan"}, 
+  {"url":"//timesofindia.indiatimes.com/sports/boxing/My-instinct-tells-me-I-will-win-bronze-Vikas-Krishan-Yadav/articleshow/52950251.cms","title":"My instinct tells me I will win bronze: Vikas Krishan Yadav"}, 
+  {"url":"//www.aiba.org/vikas-krishan-yadav-75kg/","title":"AIBA profile - Vikas"}]
 }
 ]

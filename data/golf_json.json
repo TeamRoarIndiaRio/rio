@@ -10,8 +10,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Shiv_Chawrasia",
   "fb": "",
   "twitter": "",
-  "stories": [{"url":"http://www.asiantour.com/players/100417/","title":"Shiv's profile - Asian Tour"}, 
-  			  {"url":"http://www.thenational.ae/sport/golf/indias-shiv-chawrasia-has-long-sought-indian-open-title-and-olympics-in-his-grasp","title":"India’s Shiv Chawrasia has long-sought Indian Open title, and Olympics, in his grasp"}]
+  "stories": [{"url":"//www.asiantour.com/players/100417/","title":"Shiv's profile - Asian Tour"}, 
+  			  {"url":"//www.thenational.ae/sport/golf/indias-shiv-chawrasia-has-long-sought-indian-open-title-and-olympics-in-his-grasp","title":"India’s Shiv Chawrasia has long-sought Indian Open title, and Olympics, in his grasp"}]
 },
 {
   "event": "Golf",
@@ -25,8 +25,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Anirban_Lahiri",
   "fb": "https://www.facebook.com/anirbanlahirigolf/",
   "twitter": "https://twitter.com/anirbangolf?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-  "stories": [{"url":"http://in.sports.yahoo.com/golf/pga/players/10574","title":"Yahoo.com PGA players - Lahiri Profile"}, 
-  			  {"url":"http://www.pgatour.com/players/player.31420.html","title":"PGA tour player profile - Lahiri"}]
+  "stories": [{"url":"//in.sports.yahoo.com/golf/pga/players/10574","title":"Yahoo.com PGA players - Lahiri Profile"}, 
+  			  {"url":"//www.pgatour.com/players/player.31420.html","title":"PGA tour player profile - Lahiri"}]
 },
 {
   "event": "Golf",
@@ -40,6 +40,6 @@
   "wikilink": "",
   "fb": "",
   "twitter": "https://twitter.com/aditigolf",
-  "stories": [{"url":"http://www.aditiashok.com/","title":"Aditi Ashok's website"}, 
-  			  {"url":"http://golfingindian.com/feature-rise-aditi-ashok/","title":"Feature: Rise of Aditi Ashok"}]
+  "stories": [{"url":"//www.aditiashok.com/","title":"Aditi Ashok's website"}, 
+  			  {"url":"//golfingindian.com/feature-rise-aditi-ashok/","title":"Feature: Rise of Aditi Ashok"}]
 }]

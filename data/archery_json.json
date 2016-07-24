@@ -10,10 +10,10 @@
   "wikilink": "https://en.wikipedia.org/wiki/Deepika_Kumari",
   "fb": "https://www.facebook.com/DeepikaArchery",
   "twitter": "https://twitter.com/imdeepikak",
-  "stories": [{"url":"http://deepikakumari.com", "title":"Deepika's website"},
-              {"url":"http://worldarchery.org/athlete/8734/deepika-kumari", "title":"World Archery's profile of Deepika"},
-              {"url":"http://indianexpress.com/article/sports/sport-others/deepika-kumari-equals-world-record-in-recurve-event-at-archery-world-cup-2772916/", "title":"Deepika equals world record"},
-              {"url":"http://www.sportskeeda.com/archery/interview-need-to-be-mentally-tough-ace-archer-deepika-kumari", "title":"Sportskeeda interview with Archer Deepika Kumari"}]
+  "stories": [{"url":"//deepikakumari.com", "title":"Deepika's website"},
+              {"url":"//worldarchery.org/athlete/8734/deepika-kumari", "title":"World Archery's profile of Deepika"},
+              {"url":"//indianexpress.com/article/sports/sport-others/deepika-kumari-equals-world-record-in-recurve-event-at-archery-world-cup-2772916/", "title":"Deepika equals world record"},
+              {"url":"//www.sportskeeda.com/archery/interview-need-to-be-mentally-tough-ace-archer-deepika-kumari", "title":"Sportskeeda interview with Archer Deepika Kumari"}]
 },
 {
   "event": "Archery",
@@ -26,9 +26,9 @@
   "wikilink": "https://en.wikipedia.org/wiki/Laxmirani_Majhi",
   "fb": "https://www.facebook.com/laxmiarchery/",
   "twitter": "",
-  "stories": [{"url":"http://worldarchery.org/athlete/4040/laxmirani-majhi", "title":"World Archery's profile of Laxmirani"}, 
-              {"url":"http://unicef.in/PressReleases/340/Laxmirani-Majhi-Archer", "title":"Inspiring press release of Laxmirani"}, 
-              {"url":"http://www.firstpost.com/sports/rio-beckons-deepika-kumari-among-three-member-indian-archery-team-for-olympics-2783932.html", "title":"Rio beckons! Firstpost's article"}]
+  "stories": [{"url":"//worldarchery.org/athlete/4040/laxmirani-majhi", "title":"World Archery's profile of Laxmirani"}, 
+              {"url":"//unicef.in/PressReleases/340/Laxmirani-Majhi-Archer", "title":"Inspiring press release of Laxmirani"}, 
+              {"url":"//www.firstpost.com/sports/rio-beckons-deepika-kumari-among-three-member-indian-archery-team-for-olympics-2783932.html", "title":"Rio beckons! Firstpost's article"}]
 },
 {
   "event": "Archery",
@@ -41,8 +41,8 @@
   "wikilink": "https://en.wikipedia.org/wiki/Bombayla_Devi_Laishram",
   "fb": "https://www.facebook.com/Laishram-Bombayla-Devi-124902190987756/",
   "twitter": "",
-  "stories": [{"url":"http://indianexpress.com/article/sports/sport-others/indian-women-team-in-archery-world-cup-final-2776431/", "title":"India women’s team stun Germany, enter Archery World Cup final"}, 
-              {"url":"http://worldarchery.org/athlete/6127/bombayla-devi-laishram", "title":"World Archery's profile of Bombayla"}]
+  "stories": [{"url":"//indianexpress.com/article/sports/sport-others/indian-women-team-in-archery-world-cup-final-2776431/", "title":"India women’s team stun Germany, enter Archery World Cup final"}, 
+              {"url":"//worldarchery.org/athlete/6127/bombayla-devi-laishram", "title":"World Archery's profile of Bombayla"}]
 },
 {
   "event": "Archery",
@@ -56,7 +56,7 @@
   "fb": "",
   "twitter": "",
   "stories": [{"url":"https://worldarchery.org/athlete/7295/atanu-das","title":"World Archery's profile of Atanu"}, 
-              {"url":"http://www.thehindu.com/sport/other-sports/archery-association-of-india-selects-atanu-das-for-rio-olympics-in-mens-recurve-event/article8775761.ece","title":"AAI selects Atanu Das for Rio Olympics"}]
+              {"url":"//www.thehindu.com/sport/other-sports/archery-association-of-india-selects-atanu-das-for-rio-olympics-in-mens-recurve-event/article8775761.ece","title":"AAI selects Atanu Das for Rio Olympics"}]
 }
 ]
 

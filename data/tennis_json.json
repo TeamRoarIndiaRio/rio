@@ -10,7 +10,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Sania_Mirza",
   "fb": "https://www.facebook.com/sania.mirza/",
   "twitter": "https://twitter.com/mirzasania",
-  "stories": [{"url":"http://timesofindia.indiatimes.com/topic/Sania-Mirza","title":"Sania Mirza's articles"}]
+  "stories": [{"url":"//timesofindia.indiatimes.com/topic/Sania-Mirza","title":"Sania Mirza's articles"}]
 },
 {
   "event": "Tennis",
@@ -23,7 +23,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Leander_Paes",
   "fb": "https://www.facebook.com/LeanderPaes",
   "twitter": "https://twitter.com/leander",
-  "stories": [{"url":"http://www.thefamouspeople.com/profiles/leander-paes-5343.php","title":"Leander Paes Biography"}]
+  "stories": [{"url":"//www.thefamouspeople.com/profiles/leander-paes-5343.php","title":"Leander Paes Biography"}]
 },
 {
   "event": "Tennis",
@@ -37,7 +37,7 @@
   "fb": "https://www.facebook.com/Rohan.Bofors.Bopanna/",
   "twitter": "https://twitter.com/rohanbopanna",
   "stories": [
-  {"url":"http://www.firstpost.com/sports/rohan-bopanna-picks-saketh-myneni-not-leander-paes-as-partner-for-rio-olympics-reports-2826788.html","title":"Rohan Bopanna picks Saketh Myneni, not Leander Paes, as partner for Rio Olympics: Reports"}
+  {"url":"//www.firstpost.com/sports/rohan-bopanna-picks-saketh-myneni-not-leander-paes-as-partner-for-rio-olympics-reports-2826788.html","title":"Rohan Bopanna picks Saketh Myneni, not Leander Paes, as partner for Rio Olympics: Reports"}
   ]
 },
 {
@@ -51,7 +51,7 @@
   "wikilink": "https://en.wikipedia.org/wiki/Prarthana_Thombare",
   "fb": "https://www.facebook.com/Prarthana-Thombare-163075853758394/",
   "twitter": "",
-  "stories": [{"url":"http://indiatoday.intoday.in/story/asian-games-sania-mirza-tennis-doubles-prarthana-thombare/1/393171.html","title":""}, 
-  {"url":"http://indiatoday.intoday.in/story/ankita-raina-prarthana-thombare-secure-india-2-0-win-over-pakistan-in-fed-cup/1/430342.html","title":"Ankita, Prarthana secure India's 2-0 win over Pakistan in Fed Cup"}]
+  "stories": [{"url":"//indiatoday.intoday.in/story/asian-games-sania-mirza-tennis-doubles-prarthana-thombare/1/393171.html","title":""}, 
+  {"url":"//indiatoday.intoday.in/story/ankita-raina-prarthana-thombare-secure-india-2-0-win-over-pakistan-in-fed-cup/1/430342.html","title":"Ankita, Prarthana secure India's 2-0 win over Pakistan in Fed Cup"}]
 }
 ]
