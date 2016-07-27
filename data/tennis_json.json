@@ -1,17 +1,5 @@
 ﻿[
-{
-  "event": "Tennis",
-  "name": "Sania Mirza",
-  "dob": "15 November 1986",
-  "place": "Maharashtra",
-  "category": ["Women's Doubles", "Mixed Doubles"],
-  "image": "sania-mirza.jpg",
-  "achievements": ["Asian Games 2014-gold,Commonwealth Games 2010-bronze,Afro-Asian Games 2003-gold,Asian Games 2010-silver", "Multiple Grand Slam winner"],
-  "wikilink": "https://en.wikipedia.org/wiki/Sania_Mirza",
-  "fb": "https://www.facebook.com/sania.mirza/",
-  "twitter": "https://twitter.com/mirzasania",
-  "stories": [{"url":"//timesofindia.indiatimes.com/topic/Sania-Mirza","title":"Sania Mirza's articles"}]
-},
+
 {
   "event": "Tennis",
   "name": "Leander Paes",
@@ -24,6 +12,19 @@
   "fb": "https://www.facebook.com/LeanderPaes",
   "twitter": "https://twitter.com/leander",
   "stories": [{"url":"//www.thefamouspeople.com/profiles/leander-paes-5343.php","title":"Leander Paes Biography"}]
+},
+{
+  "event": "Tennis",
+  "name": "Sania Mirza",
+  "dob": "15 November 1986",
+  "place": "Maharashtra",
+  "category": ["Women's Doubles", "Mixed Doubles"],
+  "image": "sania-mirza.jpg",
+  "achievements": ["Asian Games 2014-gold,Commonwealth Games 2010-bronze,Afro-Asian Games 2003-gold,Asian Games 2010-silver", "Multiple Grand Slam winner"],
+  "wikilink": "https://en.wikipedia.org/wiki/Sania_Mirza",
+  "fb": "https://www.facebook.com/sania.mirza/",
+  "twitter": "https://twitter.com/mirzasania",
+  "stories": [{"url":"//timesofindia.indiatimes.com/topic/Sania-Mirza","title":"Sania Mirza's articles"}]
 },
 {
   "event": "Tennis",

@@ -1,20 +1,5 @@
 [
-	{
-  "event": "Archery",
-  "name": "Deepika Kumari",
-  "dob": "13 June 1994",
-  "place": "Bihar",
-  "category": ["Team Recurve", "Individual Recurve"],
-  "image": "deepika-kumari.jpg",
-  "achievements": ["Gold medal in the individual recurve event of the World Cup Stage II at Antalya, Turkey", "Gold medal in the individual recurve event of the World Youth Archery Competition at Legnika, Poland", "Gold medal in the team recurve event of the World Cup Stage IV at Shanghai in China", "Silver medal in the individual recurve event of the World Cup Stage III at Ogden in USA"],
-  "wikilink": "https://en.wikipedia.org/wiki/Deepika_Kumari",
-  "fb": "https://www.facebook.com/DeepikaArchery",
-  "twitter": "https://twitter.com/imdeepikak",
-  "stories": [{"url":"//deepikakumari.com", "title":"Deepika's website"},
-              {"url":"//worldarchery.org/athlete/8734/deepika-kumari", "title":"World Archery's profile of Deepika"},
-              {"url":"//indianexpress.com/article/sports/sport-others/deepika-kumari-equals-world-record-in-recurve-event-at-archery-world-cup-2772916/", "title":"Deepika equals world record"},
-              {"url":"//www.sportskeeda.com/archery/interview-need-to-be-mentally-tough-ace-archer-deepika-kumari", "title":"Sportskeeda interview with Archer Deepika Kumari"}]
-},
+	
 {
   "event": "Archery",
   "name": "Laxmirani Majhi",
@@ -29,6 +14,22 @@
   "stories": [{"url":"//worldarchery.org/athlete/4040/laxmirani-majhi", "title":"World Archery's profile of Laxmirani"}, 
               {"url":"//unicef.in/PressReleases/340/Laxmirani-Majhi-Archer", "title":"Inspiring press release of Laxmirani"}, 
               {"url":"//www.firstpost.com/sports/rio-beckons-deepika-kumari-among-three-member-indian-archery-team-for-olympics-2783932.html", "title":"Rio beckons! Firstpost's article"}]
+},
+{
+  "event": "Archery",
+  "name": "Deepika Kumari",
+  "dob": "13 June 1994",
+  "place": "Bihar",
+  "category": ["Team Recurve", "Individual Recurve"],
+  "image": "deepika-kumari.jpg",
+  "achievements": ["Gold medal in the individual recurve event of the World Cup Stage II at Antalya, Turkey", "Gold medal in the individual recurve event of the World Youth Archery Competition at Legnika, Poland", "Gold medal in the team recurve event of the World Cup Stage IV at Shanghai in China", "Silver medal in the individual recurve event of the World Cup Stage III at Ogden in USA"],
+  "wikilink": "https://en.wikipedia.org/wiki/Deepika_Kumari",
+  "fb": "https://www.facebook.com/DeepikaArchery",
+  "twitter": "https://twitter.com/imdeepikak",
+  "stories": [{"url":"//deepikakumari.com", "title":"Deepika's website"},
+              {"url":"//worldarchery.org/athlete/8734/deepika-kumari", "title":"World Archery's profile of Deepika"},
+              {"url":"//indianexpress.com/article/sports/sport-others/deepika-kumari-equals-world-record-in-recurve-event-at-archery-world-cup-2772916/", "title":"Deepika equals world record"},
+              {"url":"//www.sportskeeda.com/archery/interview-need-to-be-mentally-tough-ace-archer-deepika-kumari", "title":"Sportskeeda interview with Archer Deepika Kumari"}]
 },
 {
   "event": "Archery",

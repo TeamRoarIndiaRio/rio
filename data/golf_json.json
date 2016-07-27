@@ -1,18 +1,4 @@
-[{
-  "event": "Golf",
-  "name": "Shiv Chawrasia",
-  "dob": "15 May 1978",
-  "place": "Kolkata",
-  "category": ["Men"],
-  "image": "shiv-chawrasia.jpg",
-  "subcat": "track",
-  "achievements": ["Ranked Top in Asian Tour"],
-  "wikilink": "https://en.wikipedia.org/wiki/Shiv_Chawrasia",
-  "fb": "",
-  "twitter": "",
-  "stories": [{"url":"//www.asiantour.com/players/100417/","title":"Shiv's profile - Asian Tour"}, 
-  			  {"url":"//www.thenational.ae/sport/golf/indias-shiv-chawrasia-has-long-sought-indian-open-title-and-olympics-in-his-grasp","title":"India’s Shiv Chawrasia has long-sought Indian Open title, and Olympics, in his grasp"}]
-},
+[
 {
   "event": "Golf",
   "name": "Anirban Lahiri",
@@ -27,6 +13,21 @@
   "twitter": "https://twitter.com/anirbangolf?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
   "stories": [{"url":"//in.sports.yahoo.com/golf/pga/players/10574","title":"Yahoo.com PGA players - Lahiri Profile"}, 
   			  {"url":"//www.pgatour.com/players/player.31420.html","title":"PGA tour player profile - Lahiri"}]
+},
+{
+  "event": "Golf",
+  "name": "Shiv Chawrasia",
+  "dob": "15 May 1978",
+  "place": "Kolkata",
+  "category": ["Men"],
+  "image": "shiv-chawrasia.jpg",
+  "subcat": "track",
+  "achievements": ["Ranked Top in Asian Tour"],
+  "wikilink": "https://en.wikipedia.org/wiki/Shiv_Chawrasia",
+  "fb": "",
+  "twitter": "",
+  "stories": [{"url":"//www.asiantour.com/players/100417/","title":"Shiv's profile - Asian Tour"}, 
+          {"url":"//www.thenational.ae/sport/golf/indias-shiv-chawrasia-has-long-sought-indian-open-title-and-olympics-in-his-grasp","title":"India’s Shiv Chawrasia has long-sought Indian Open title, and Olympics, in his grasp"}]
 },
 {
   "event": "Golf",

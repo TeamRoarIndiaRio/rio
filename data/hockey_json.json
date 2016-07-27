@@ -1,19 +1,4 @@
-[{
-  "event": "Hockey",
-  "name": "Savita Punia",
-  "dob": "11 June 1990",
-  "place": "Haryana",
-  "category": ["Women's Hockey"],
-  "position": "Goalkeeper",
-  "image": "savita-punia.jpg",
-  "achievements": ["Navjot Kaur has 105 International Caps for the National team"],
-  "wikilink": "https://en.wikipedia.org/wiki/Savita_Punia",
-  "fb": "",
-  "twitter": "",
-  "stories": [
-  {"url":"//indianexpress.com/article/sports/hockey/once-reluctant-player-savita-punia-keeps-india-in-olympic-chase/","title":"Once reluctant player, Savita Punia keeps India in Olympic chase"}, 
-  {"url":"//hockeyindia.org/team/savita-punia-2.html","title":"Hockey India profile of Savita Punia"}]
-},
+[
 {
   "event": "Hockey",
   "name": "Navjot Kaur",
@@ -29,6 +14,22 @@
   "stories": [
   {"url":"//indiatoday.intoday.in/story/upcoming-hockey-player-navjot-kaur/1/460998.html","title":"Navjot Kaur eyes Junior world cup title"},
   {"url":"//hockeyindia.org/team/navjot-kaur-sr-2.html","title":"Hockey India profile of Navjot Kaur"}]
+},
+{
+  "event": "Hockey",
+  "name": "Savita Punia",
+  "dob": "11 June 1990",
+  "place": "Haryana",
+  "category": ["Women's Hockey"],
+  "position": "Goalkeeper",
+  "image": "savita-punia.jpg",
+  "achievements": ["Navjot Kaur has 105 International Caps for the National team"],
+  "wikilink": "https://en.wikipedia.org/wiki/Savita_Punia",
+  "fb": "",
+  "twitter": "",
+  "stories": [
+  {"url":"//indianexpress.com/article/sports/hockey/once-reluctant-player-savita-punia-keeps-india-in-olympic-chase/","title":"Once reluctant player, Savita Punia keeps India in Olympic chase"}, 
+  {"url":"//hockeyindia.org/team/savita-punia-2.html","title":"Hockey India profile of Savita Punia"}]
 },
 {
   "event": "Hockey",

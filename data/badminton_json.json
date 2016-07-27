@@ -1,19 +1,4 @@
 [
-	{
-  "event": "Badminton",
-  "name": "Kidambi Srikanth",
-  "dob": "7 February 1993",
-  "place": "Andhra Pradesh",
-  "category": ["Singles"],
-  "image": "kidambi-srikanth.jpg",
-  "achievements": ["Asia Championships 2016, Hyderabad (Men’s team) – bronze", "South Asian Games 2016, Guwahati (Men’s singles) – gold", "South Asian Games 2016, Guwahati (Men’s team) – gold", "Asian Junior Championships 2011, Lucknow (Mixed team) – bronze", "Commonwealth Youth Games 2011, Douglas (Mixed Doubles) – silver", "Commonwealth Youth Games 2011, Douglas (Boy’s Doubles) – bronze"],
-  "wikilink": "https://en.wikipedia.org/wiki/Srikanth_Kidambi",
-  "fb": "https://www.facebook.com/GSFKidambiSrikanth",
-  "twitter": "https://twitter.com/srikidambi",
-  "stories": [
-  {"url":"//sports.ndtv.com/olympics-2016/news/255746-kidambi-srikanth-hopes-his-consistency-and-hard-work-pay-off-at-rio-olympics","title":"Kidambi Srikanth hopes his consistency and hard work pay off at Rio Olympics"}
-  ]
-},
 {
   "event": "Badminton",
   "name": "Manu Attri",
@@ -28,6 +13,21 @@
   "stories": [
   {"url":"https://www.youtube.com/watch?v=ffzDoI1SsMA","title":"Youtube: Manu Attri Interview - Badminton star from Meerut"}, 
   {"url":"//www.firstpost.com/sports/first-doubles-triumph-manu-attri-and-sumeeth-reddy-clinch-mexico-open-grand-prix-2555824.html","title":"First doubles triumph: Manu Attri and Sumeeth Reddy clinch Mexico Open Grand Prix"}
+  ]
+},
+{
+  "event": "Badminton",
+  "name": "Kidambi Srikanth",
+  "dob": "7 February 1993",
+  "place": "Andhra Pradesh",
+  "category": ["Singles"],
+  "image": "kidambi-srikanth.jpg",
+  "achievements": ["Asia Championships 2016, Hyderabad (Men’s team) – bronze", "South Asian Games 2016, Guwahati (Men’s singles) – gold", "South Asian Games 2016, Guwahati (Men’s team) – gold", "Asian Junior Championships 2011, Lucknow (Mixed team) – bronze", "Commonwealth Youth Games 2011, Douglas (Mixed Doubles) – silver", "Commonwealth Youth Games 2011, Douglas (Boy’s Doubles) – bronze"],
+  "wikilink": "https://en.wikipedia.org/wiki/Srikanth_Kidambi",
+  "fb": "https://www.facebook.com/GSFKidambiSrikanth",
+  "twitter": "https://twitter.com/srikidambi",
+  "stories": [
+  {"url":"//sports.ndtv.com/olympics-2016/news/255746-kidambi-srikanth-hopes-his-consistency-and-hard-work-pay-off-at-rio-olympics","title":"Kidambi Srikanth hopes his consistency and hard work pay off at Rio Olympics"}
   ]
 },
 {

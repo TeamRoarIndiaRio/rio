@@ -1,19 +1,5 @@
 ﻿[
-	{
-  "event": "Shooting",
-  "name": "Abhinav Bindra",
-  "dob": "28 September 1982",
-  "place": "Uttarakhand",
-  "category": ["10m air rifle"],
-  "image": "abhinav-bindra.jpg",
-  "achievements": ["Multiple medal winner in all major events around world and Olympic Gold medal winner in 2008, Beijing", "ISSF World Shooting Championships Zagreb 2006, GOLD", "Complete medal tally in Wikipedia"],
-  "wikilink": "https://en.wikipedia.org/wiki/Abhinav_Bindra",
-  "fb": "https://www.facebook.com/abhinav.bindra.520",
-  "twitter": "https://twitter.com/abhinav_bindra",
-  "stories": [
-  {"url":"www.biography.co.in/biography-abhinav-bindra.html","title":"Abhinav Bindra Biography"}, 
-  {"url":"//www.abhinavbindra.com/foundation.aspx","title":"The Abhinav Bindra Foundation"}]
-},
+	
 {
   "event": "Shooting",
   "name": "Gagan Narang",
@@ -27,6 +13,21 @@
   "twitter": "https://twitter.com/gagunnarang?lang=en",
   "stories": [
   {"url":"//www.sportsvale.com/resources/3627-Gagan-Narang-Biography-Career-Profile-Ace-Rifle-Shooter-at-London-Olympics.aspx","title":"Gagan Narang Biography and Career Profile: Ace Rifle Shooter at London Olympics 2012"}]
+},
+{
+  "event": "Shooting",
+  "name": "Abhinav Bindra",
+  "dob": "28 September 1982",
+  "place": "Uttarakhand",
+  "category": ["10m air rifle"],
+  "image": "abhinav-bindra.jpg",
+  "achievements": ["Multiple medal winner in all major events around world and Olympic Gold medal winner in 2008, Beijing", "ISSF World Shooting Championships Zagreb 2006, GOLD", "Complete medal tally in Wikipedia"],
+  "wikilink": "https://en.wikipedia.org/wiki/Abhinav_Bindra",
+  "fb": "https://www.facebook.com/abhinav.bindra.520",
+  "twitter": "https://twitter.com/abhinav_bindra",
+  "stories": [
+  {"url":"www.biography.co.in/biography-abhinav-bindra.html","title":"Abhinav Bindra Biography"}, 
+  {"url":"//www.abhinavbindra.com/foundation.aspx","title":"The Abhinav Bindra Foundation"}]
 },
 {
   "event": "Shooting",
